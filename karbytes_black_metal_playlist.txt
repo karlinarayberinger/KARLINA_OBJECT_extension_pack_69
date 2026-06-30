@@ -1,0 +1,221 @@
+/**
+ * file: karbytes_black_metal_playlist.txt
+ * type: plain-text
+ * date: 29_JUNE_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following Uniform Resource Locators are each the web address of exactly one unique MP4 video file in karbytes’ GitHub repositories (and encompassing collection of public domain and web based digital files referred to by karbytes as KARBYTES). What each of the following MP4 video files have in common is that they each depict exactly one unique song whose musical genre is black metal (and, to a lesser extent, death metal).
+
+* * *
+
+song_0: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_18/main/f%C3%B6r_dem_mitt_blod_setherial_released_1996_downloaded_by_karbytes_on_28july2024.mp4
+
+* * *
+
+song_1: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_18/main/chronicles_of_thy_astral_blood_satanic_warmaster_released_2018_downloaded_by_karbytes_on_28july2024.mp4
+
+* * *
+
+song_2: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/am_i_god_calben_2022_downloaded_by_karbytes_on_26june2024.mp4
+
+* * *
+
+song_3: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/enthroned_ha_shaitan_1997_downloaded_by_karbytes_26june2024.mp4
+
+* * *
+
+song_4: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_16/main/cauldron_of_plagues_kvaen_the_great_below_downloaded_by_karbytes_26may2024.mp4
+
+* * *
+
+song_5: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_16/main/blackbraid_barefoot_ghost_dance_on_blood_soaked_soil_(2022)_downloaded_by_karbytes_16june2024.mp4
+
+* * *
+
+song_6: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_15/main/mare_cognitum_antaresian_downloaded_by_karbytes_27may2024.mp4
+
+* * *
+
+song_7: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_18/main/the_sorrowful_screams_of_a_thousand_wicked_souls_elcrost_released_2021_downloaded_by_karbytes_on_13august2024.mp4
+
+* * *
+
+song_8: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_10/main/eagle_of_the_serpent_sun_from_winds_of_serpentine_ascension_by_into_oblivion_downloaded_by_karbytes_on_11april2024.mp4
+
+* * *
+
+song_9: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_44/main/for_a_glory_of_all_evil_spirits_rise_for_victory_by_mastiphal_released_1996_downloaded_by_karbytes_24june2025.mp4
+
+* * *
+
+song_10: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_44/main/altars_of_forest_by_ahriman_released_1997_downloaded_by_karbytes_24june2025.mp4
+
+* * *
+
+song_11: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_44/main/chaos_by_pervertum_released_1995_downloaded_by_karbytes_24june2025.mp4
+
+* * *
+
+song_12: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_44/main/kingdom_of_shadows_by_crimson_moon_downloaded_by_karbytes_24june2025.mp4
+
+* * *
+
+song_13: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_44/main/motmenneske_by_solefald_released_1996_downloaded_by_karbytes_24june2025.mp4
+
+* * *
+
+song_14: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_44/main/sar_ibteeloob_cab_by_xibalba_released_1994_downloaded_by_karbytes_24june2025.mp4
+
+* * *
+
+song_15: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_45/main/la_foret_by_gnome_released_1996_downloaded_by_karbytes_13july2025.mp4
+
+* * *
+
+song_16: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_49/main/lunar_aurora_grabges%C3%A4nge_1996.mp4
+
+* * *
+
+song_17: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_49/main/dissection_nights_blood_1995.mp4
+
+* * *
+
+song_18: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_49/main/grotesque_incantation_1990.mp4
+
+* * *
+
+song_19: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_50/main/a_moment_of_clarity_by_death_1999.mp4
+
+* * *
+
+song_20: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_50/main/blacklodge_NeutroN_ShivA_2012.mp4
+
+* * *
+
+song_21: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_50/main/express_the_truth_beyond_humanize_1991.mp4
+
+* * *
+
+song_22: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_50/main/lord_of_putrefaction_%7C_mortal_remains_%7C_1991.mp4
+
+* * *
+
+song_23: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_50/main/sarcophagy_cut_to_pieces_1995.mp4
+
+* * *
+
+song_24: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_50/main/thornium_emperor_of_the_carpathians_1995.mp4
+
+* * *
+
+song_25: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_50/main/tsjuder_throne_of_the_goat_1997_to_2017.mp4
+
+* * *
+
+song_26: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_51/main/the_animal_statue_into_oblivion_2010.mp4
+
+* * *
+
+song_27: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_53/main/blacklodge_Ang%CE%B5ls_R%CE%B5fin%CE%B5ry_(C21H23NO5_MiX)_2006.mp4
+
+* * *
+
+song_28: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_54/main/enslaved_heimdal_2023.mp4
+
+* * *
+
+song_29: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_53/main/enslaved_wotan_1994.mp4
+
+* * *
+
+song_30: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_54/main/enslaved_heimdal_2023.mp4
+
+* * *
+
+song_31: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_56/main/zephyrous_the_frozen_path_of_timeless_wisdom_and_trance_1994.mp4
+
+* * *
+
+song_32: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_57/main/esgaroth_buried_into_the_crypts_of_everlasting_winter_1996.mp4
+
+* * *
+
+song_33: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_57/main/gorewinter_februarys_crust_of_frozen_snow_1996.mp4
+
+* * *
+
+song_34: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_57/main/gorewinter_the_stormy_belsebube_in_the_mountain_of_ghraahl_1998.mp4
+
+* * *
+
+song_35: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_57/main/vulkan_grit_starkiller_flame_of_satan_2025.mp4
+
+* * *
+
+song_36: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_57/main/vulkan_grit_the_immaculate_shape_of_the_worm_2025.mp4
+
+* * *
+
+song_37: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_64/main/excess_of_cruelty_the_reaper_of_the_harvest_1997.mp4
+
+* * *
+
+song_38: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_64/main/under_moonlight_sadness_behind_this_tears_1998.mp4
+
+* * *
+
+song_39: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/blut_aus_nord_mahagma_2019.mp4
+
+* * *
+
+song_40: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/cosmic_sea_instrumental_death_1991.mp4
+
+* * *
+
+song_41: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/flattening_of_emotions_death_2010.mp4
+
+* * *
+
+song_42: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/heimkehr_lunar_aurora_2005.mp4
+
+* * *
+
+song_43: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/slaughtered_in_the_arms_of_god_amputation_1990.mp4
+
+* * *
+
+song_44: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/sermon_of_mockery_pyrexia_1993.mp4
+
+* * *
+
+song_45: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_66/main/all_blackened_skies_demonaz_2011.mp4
+
+* * *
+
+song_46: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_66/main/all_shall_fall_immortal_2009.mp4
+
+* * *
+
+song_47: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_66/main/grim_and_frostbitten_kingdoms_immortal_1995.mp4
+
+* * *
+
+song_48: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_66/main/horrors_of_a_withered_dimension_bloodstained_ground_2022.mp4
+
+* * *
+
+song_49: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_66/main/they_live_on_fear_body_bag_1992.mp4
+
+* * *
+
+song_50: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_66/main/return_to_cold_immortal_2023.mp4
+
+* * *
+
+song_51: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_66/main/war_against_all_immortal_2023.mp4
+
+* * *
+
+song_52: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_67/main/within_the_dark_mind_immortal_2002.mp4

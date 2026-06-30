@@ -1,0 +1,141 @@
+/**
+ * file: chatgpt_karbytes_28june2026_p1.txt
+ * type: plain-text
+ * date: 28_JUNE_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-5.5 which took place between 11:59PM Pacific Standard Time on 27_JUNE_2026 and 11:59PM Pacific Standard Time on 28_JUNE_2026.
+
+* * *
+
+karbytes:
+
+How often does a coyote typically eat?
+
+ChatGPT:
+
+I’ll answer in terms of wild coyotes, since captive/rehab feeding schedules are different. Their actual meal rhythm varies a lot with prey availability, season, and whether they are raising pups.
+
+[Thought for 10s]
+
+A wild coyote often eats something every day, but not necessarily as a neat “meal” schedule. They are opportunistic foragers: they may catch several small prey items in one night, scavenge from a carcass for a day or two, eat fruit/insects/rodents as they find them, or go a day or more with little success.
+
+A useful rule of thumb is: small snacks frequently, larger meals irregularly. Coyotes mostly eat small mammals such as rodents and rabbits, but they also eat carrion, insects, fruit, grass, reptiles, birds, fish, and human-associated foods when available.
+
+In terms of quantity, an adult coyote is often described as eating roughly about a pound or a bit more of food per day on average, though this can fluctuate widely. A coyote that finds a large carcass may gorge, cache food, or return to it; a coyote hunting mice may eat many small items across the night.
+
+So the closest answer is: typically daily, but irregularly; they do not require a fixed once- or twice-per-day feeding rhythm like a pet dog.
+
+karbytes:
+
+Which typically eats more per day: a human or a coyote?
+
+ChatGPT:
+
+[Thought for a couple of seconds]
+
+A **human typically eats more per day by weight and by calories** than a coyote.
+
+A rough comparison:
+
+[preformatted_text]
+
+| Animal           |                                                              Typical daily intake |
+| ---------------- | --------------------------------------------------------------------------------: |
+| **Adult human**  |               about **3–5 pounds of food/day**, roughly **1,800–3,000+ calories** |
+| **Adult coyote** | often around **1 pound or a bit more/day**, variable depending on prey and season |
+
+[end preformatted_text]
+
+Coyotes are much smaller than humans, usually around **20–50 pounds**, while adult humans are often several times heavier. So in absolute terms, humans usually eat more.
+
+But **relative to body weight**, the comparison is closer. A 30-pound coyote eating about 1 pound of food is eating a larger fraction of its body weight than a 150-pound human eating 4 pounds of food. So:
+
+**Absolute amount:** human eats more.
+**As a percentage of body weight:** coyote may eat more.
+
+karbytes:
+
+Which typically burns more energy per day: a human or a coyote?
+
+ChatGPT:
+
+[Thought for a couple of seconds]
+
+A **human typically burns more total energy per day** than a coyote.
+
+Approximate daily energy use:
+
+[preformatted_text]
+
+| Animal           | Typical body mass |                                                                    Rough daily energy burn |
+| ---------------- | ----------------: | -----------------------------------------------------------------------------------------: |
+| **Adult human**  |      ~120–200+ lb |                                                                     ~1,800–3,000+ kcal/day |
+| **Adult coyote** |         ~20–50 lb | often roughly ~500–1,200 kcal/day, depending on activity, weather, and food-seeking effort |
+
+[end preformatted_text]
+
+So in **absolute calories per day**, a human usually burns more because a human is much larger.
+
+But **per pound of body weight**, a coyote may burn more. A 30-pound wild canid running, hunting, thermoregulating outdoors, and covering territory can have a higher metabolic demand relative to its size than a sedentary or moderately active human.
+
+So the compact answer is:
+
+**Total daily energy:** human > coyote.
+**Energy per unit body weight:** coyote can be higher.
+
+karbytes:
+
+How often do coyotes typically die of starvation?
+
+ChatGPT:
+
+I’ll treat this as a wild-coyote ecology question rather than pet/rehab care. Starvation is real in coyotes, but it is usually tangled with disease, injury, pup mortality, and winter prey scarcity rather than counted as one clean category.
+
+[Thought for 6s]
+
+There is no single “typical” starvation rate for coyotes, because most studies classify deaths as broader categories like vehicle collision, hunting/trapping, disease, injury, “natural causes,” or unknown. But the broad answer is:
+
+Adult coyotes do not typically die of starvation very often. They are extremely adaptable omnivores and scavengers, so starvation is usually uncommon compared with human-caused mortality, especially vehicles, shooting, and trapping.
+
+In a Wisconsin survival study, known deaths were mostly from harvest/hunting/trapping, about 83.8%, and vehicle collisions, about 13.5%; “natural causes” were estimated at only about 1% cumulative incidence over a year, and starvation would usually be a subset of that, not the dominant category.
+
+In urban Chicago-area coyote research, the leading cause of death was vehicle collision, accounting for 40–70% of deaths each year. The project notes that other causes included shootings, malnutrition, mange-related disease, and complicated/unknown causes, but malnutrition is not presented as a leading cause.
+
+Pups and juveniles are more vulnerable. Many pups die before adulthood, especially during early dispersal and learning-to-hunt periods; food shortage can contribute, but it often overlaps with disease, exposure, competition, parental loss, and general poor condition. Chicago-area research says many pups die during their first ventures away from the den, while adult survival is much more stable.
+
+So, in plain terms: starvation happens, especially among pups, injured coyotes, diseased coyotes, or coyotes in harsh winter/low-prey conditions, but it is usually not the main way coyotes die. An adult coyote is more likely to be killed by a car, gun, trap, poisoning, mange/disease complications, or territorial conflict than to simply run out of food and starve.
+
+karbytes:
+
+What do you mean by "territorial conflict"?
+
+ChatGPT:
+
+[Thought for 4s]
+
+By **“territorial conflict,”** I mean conflict with another animal over space, den sites, food access, mates, pups, or perceived intrusion.
+
+For coyotes, this can include:
+
+[preformatted_text]
+
+| Conflict type                             | What it looks like                                                                                                                                                                                                                                                        |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Coyote vs. coyote**                     | Chasing, threat displays, biting, fighting, especially near dens, pups, carcasses, or territory boundaries.                                                                                                                                                               |
+| **Resident coyote vs. dispersing coyote** | A young coyote leaving its birth area may pass through occupied territories and get driven away or injured.                                                                                                                                                               |
+| **Coyote pair/family vs. dogs**           | Coyotes may treat a dog as a rival canid, especially near a den or pup-rearing area. Some wildlife agencies describe dog-coyote incidents as territorial disputes where both animals act as if the same area is “theirs.” ([Department of Environmental Conservation][1]) |
+| **Coyote vs. larger carnivore**           | In some places, coyotes may be displaced, injured, or killed by wolves, cougars, bears, or large domestic dogs.                                                                                                                                                           |
+
+[end preformatted_text]
+
+It does **not** necessarily mean a dramatic fight to the death. Most territorial conflict is lower-level: scent marking, howling, posturing, escorting an intruder away, chasing, nipping, or brief fighting. Actual lethal conflict can happen, but avoidance is usually safer and more energy-efficient.
+
+Coyotes use signals like **urine marking, ground-scratching, vocalizations, and chasing** to communicate territorial boundaries; they tend to be especially defensive around dens and pups. ([Wikipedia][2])
+
+So in the starvation/mortality context, I meant: a coyote might die or become weakened because it is **excluded from good hunting/scavenging areas**, injured in a fight, forced to disperse through risky unfamiliar areas, or attacked while competing with other carnivores.
+
+[1]: https://dec.ny.gov/nature/animals-fish-plants/nuisance-wildlife-species/coyote-conflicts?utm_source=chatgpt.com "Coyote Conflicts - NYSDEC"
+[2]: https://en.wikipedia.org/wiki/Coyote?utm_source=chatgpt.com "Coyote"
