@@ -1,0 +1,43 @@
+/**
+ * file: chatgpt_karbytes_03july2026_p0.txt
+ * type: plain-text
+ * date: 02_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-5.5 which took place between 11:59PM Pacific Standard Time on 30_JUNE_2026 and 11:59PM Pacific Standard Time on 03_JULY_2026.
+
+* * *
+
+karbytes:
+
+Determine whether or not there are any broken links (i.e. hyperlinks which do not seem to lead to the file implied by the respective hyperlink) in the following web page: 
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_02july2026/
+
+ChatGPT:
+
+I’ll check the page’s hyperlinks, compare each link target against the visible linked text/context where possible, and flag anything that appears mismatched or unreachable.
+
+[Thought for 30s]
+
+Yes. I found two broken/mismatched file hyperlinks on that page.
+
+1. journal_karbytes_02july2026_p0.txt
+
+The page says the copied text comes from journal_karbytes_02july2026_p0.txt in KARLINA_OBJECT_extension_pack_69, but opening that raw GitHub target returns 404 Not Found. The pack 69 directory listing also shows nearby journal files, but not journal_karbytes_02july2026_p0.txt.
+
+2. obs_studio_recording_karbytes_02july2026_p0.mp4 / KARBYTES_video_file_0
+
+The page lists KARBYTES_video_file_0 as an OBS recording for 02 July 2026, but the raw GitHub target returns 404 Not Found. The pack 69 directory listing includes other OBS recordings, but not this 02 July recording.
+
+The other listed video links I checked returned “OK” from the fetch layer, so I did not find evidence that those are broken.
+
+karbytes:
+
+Excellent! That is what I was hoping you would say. This was a test to verify that you were actually clicking on the hyperlinks and not just providing information which could be false. Those two files you mentioned being missing (i.e. leading to a 404 page on GitHub dot Com instead of to the respective file page) are still only in the @informationcrytals/projects public GitHub repository where they are being staged for a canon KARBYTES update within the next 24 hours (or before before (or no later than) 11:59PM Pacific Standard Time on 02_JULY_2026). After that official KARBYTES update, those "missing files" should be accesible by clicking on the hyperlinks in the web page I shared with you.
+
+ChatGPT:
+
+Got it. That matches the link-check result: the page currently points to files that are not yet available at the linked GitHub targets, so they show as broken for now, but they may resolve after the planned KARBYTES update by 11:59 PM Pacific Time on July 2, 2026.
