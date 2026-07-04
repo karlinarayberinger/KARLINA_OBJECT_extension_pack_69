@@ -28,6 +28,10 @@ KARBYTES_item_5: karbytes_content_management_policy
 
 KARBYTES_item_6: recursive_generative_void_illustration
 
+KARBYTES_item_7: chatgpt_karbytes_04july2026
+
+KARBYTES_item_8: chatgpt_karbytes_03july2026
+
 * * *
 
 // The Philosophy of Karbytes
@@ -66,13 +70,25 @@ KARBYTES_item_0: chatgpt_karbytes_08august2025
 
 KARBYTES_item_1: the_big_green_thing
 
+KARBYTES_item_2: chatgpt_karbytes_10august2025
+
+KARBYTES_item_3: chatgpt_karbytes_19july2025
+
+KARBYTES_item_4: best_of_the_baylands_2024
+
 * * *
 
 // The Geographic Traversals of Karbytes (In Hiatus)
 
-KARBYTES_item_0: chatgpt_karbytes_13july2026
+KARBYTES_item_0: journal_karbytes_21june2026
 
-KARBYTES_item_0: chatgpt_karbytes_13july2026
+KARBYTES_item_1: chatgpt_karbytes_13july2026
+
+KARBYTES_item_2: chatgpt_karbytes_07july2026
+
+KARBYTES_item_3: chatgpt_karbytes_06july2026
+
+KARBYTES_item_4: chatgpt_karbytes_05july2026
 
 * * *
 
@@ -88,7 +104,15 @@ KARBYTES_item_3: chatgpt_karbytes_09july2026
 
 KARBYTES_item_4: chatgpt_karbytes_11july2026
 
-KARBYTES_item_5: chatgpt_karbytes_02july2026
+KARBYTES_item_5: journal_karbytes_02july2026
+
+KARBYTES_item_6: journal_karbytes_26june2026
+
+KARBYTES_item_7: journal_karbytes_27june2026
+
+KARBYTES_item_8: chatgpt_karbytes_14july2026
+
+KARBYTES_item_9: chatgpt_karbytes_02july2026
 
 * * *
 
@@ -96,13 +120,27 @@ KARBYTES_item_5: chatgpt_karbytes_02july2026
 
 KARBYTES_item_0: chatgpt_karbytes_27may2026
 
-KARBYTES_item_1: chatgpt_karbytes_26june2026
+KARBYTES_item_1: chatgpt_karbytes_02june2026
 
-KARBYTES_item_2: karbytes_stuck_web_pages
+KARBYTES_item_2: karbytes_2023_posters
 
-KARBYTES_item_3: chatgpt_karbytes_20june2026
+KARBYTES_item_3: karbytes_and_earth
 
-KARBYTES_item_4: chatgpt_karbytes_18june2026
+KARBYTES_item_4: stuck
+
+KARBYTES_item_5: chatgpt_karbytes_26june2026
+
+KARBYTES_item_6: chatgpt_karbytes_29june2026
+
+KARBYTES_item_7: karbytes_feels_very_stuck
+
+KARBYTES_item_8: karbytes_is_stuck
+
+KARBYTES_item_9: karbytes_stuck_web_pages
+
+KARBYTES_item_10: chatgpt_karbytes_20june2026
+
+KARBYTES_item_11: chatgpt_karbytes_18june2026
 
 * * *
 
