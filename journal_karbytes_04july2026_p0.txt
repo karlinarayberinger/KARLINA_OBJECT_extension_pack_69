@@ -43,3 +43,7 @@ KARBYTES_item_2: chatgpt_karbytes_26june2026
 KARBYTES_item_0: chatgpt_karbytes_10may2025
 
 KARBYTES_item_1: chatgpt_karbytes_21june2026
+
+KARBYTES_item_2: karbytes_workflow_established_05august2025
+
+KARBYTES_item_3: recursive_generative_void_illustration
