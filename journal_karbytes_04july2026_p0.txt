@@ -28,9 +28,15 @@ KARBYTES_item_5: karbytes_content_management_policy
 
 KARBYTES_item_6: recursive_generative_void_illustration
 
-KARBYTES_item_7: chatgpt_karbytes_04july2026
+KARBYTES_item_7: chatgpt_karbytes_16june2026
 
-KARBYTES_item_8: chatgpt_karbytes_03july2026
+KARBYTES_item_8: chatgpt_karbytes_15june2026
+
+KARBYTES_item_9: chatgpt_karbytes_04july2026
+
+KARBYTES_item_10: chatgpt_karbytes_03july2026
+
+KARBYTES_item_11: journal_karbytes_09june2026
 
 * * *
 
@@ -76,6 +82,10 @@ KARBYTES_item_3: chatgpt_karbytes_19july2025
 
 KARBYTES_item_4: best_of_the_baylands_2024
 
+KARBYTES_item_5: a_relatively_private_journal_karbytes_20august2025
+
+KARBYTES_item_6: journal_karbytes_14june2026
+
 * * *
 
 // The Geographic Traversals of Karbytes (In Hiatus)
@@ -84,11 +94,15 @@ KARBYTES_item_0: journal_karbytes_21june2026
 
 KARBYTES_item_1: chatgpt_karbytes_13july2026
 
-KARBYTES_item_2: chatgpt_karbytes_07july2026
+KARBYTES_item_2: chatgpt_karbytes_30june2026
 
-KARBYTES_item_3: chatgpt_karbytes_06july2026
+KARBYTES_item_3: chatgpt_karbytes_07july2026
 
-KARBYTES_item_4: chatgpt_karbytes_05july2026
+KARBYTES_item_4: chatgpt_karbytes_06july2026
+
+KARBYTES_item_5: chatgpt_karbytes_05july2026
+
+KARBYTES_item_6: chatgpt_karbytes_15july2026
 
 * * *
 
