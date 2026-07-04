@@ -36,7 +36,43 @@ KARBYTES_item_0: karbytes_ontology
 
 KARBYTES_item_1: static_block_multiverse_model_of_reality
 
-KARBYTES_item_2: karbytes_declaration_of_grand_demands
+KARBYTES_item_2: chatgpt_karbytes_30august2025
+
+KARBYTES_item_3: journal_karbytes_21july2025
+
+KARBYTES_item_4: the_cosmos_as_fundamentally_digital
+
+KARBYTES_item_5: karbytes_declaration_of_grand_demands
+
+KARBYTES_item_6: chatgpt_karbytes_08february2026
+
+KARBYTES_item_7: omniscience_might_not_exist
+
+KARBYTES_item_8: recursive_simulation_of_the_cosmos_concept_revisited
+
+KARBYTES_item_9: chatgpt_karbytes_21september2025
+
+KARBYTES_item_10: chatgpt_karbytes_14september2025
+
+KARBYTES_item_11: learning_about_vacuum_energy
+
+KARBYTES_item_12: heat_death_of_a_universe
+
+* * *
+
+// The Geographic Traversals of Karbytes (Pre Hiatus)
+
+KARBYTES_item_0: chatgpt_karbytes_08august2025
+
+KARBYTES_item_1: the_big_green_thing
+
+* * *
+
+// The Geographic Traversals of Karbytes (In Hiatus)
+
+KARBYTES_item_0: chatgpt_karbytes_13july2026
+
+KARBYTES_item_0: chatgpt_karbytes_13july2026
 
 * * *
 
@@ -64,6 +100,10 @@ KARBYTES_item_1: chatgpt_karbytes_26june2026
 
 KARBYTES_item_2: karbytes_stuck_web_pages
 
+KARBYTES_item_3: chatgpt_karbytes_20june2026
+
+KARBYTES_item_4: chatgpt_karbytes_18june2026
+
 * * *
 
 // The Legacy of Karbytes
@@ -77,3 +117,5 @@ KARBYTES_item_2: chatgpt_karbytes_31may2026
 KARBYTES_item_3: sovereignty_of_karbytes
 
 KARBYTES_item_4: best_practices_for_using_the_web
+
+KARBYTES_item_5: journal_karbytes_29june2026
