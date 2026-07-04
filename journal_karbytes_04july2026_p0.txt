@@ -12,6 +12,18 @@
 
 * * *
 
+// The Conception of KARBYTES Hiatus Bubbles
+
+KARBYTES_item_0: chatgpt_karbytes_10may2025
+
+KARBYTES_item_1: chatgpt_karbytes_21june2026
+
+KARBYTES_item_2: karbytes_workflow_established_05august2025
+
+KARBYTES_item_3: recursive_generative_void_illustration
+
+* * *
+
 // The Entrapment of Karbytes (In Hiatus)
 
 KARBYTES_item_0: chatgpt_karbytes_16july2026
@@ -38,12 +50,12 @@ KARBYTES_item_2: chatgpt_karbytes_26june2026
 
 * * *
 
-// The Conception of KARBYTES Hiatus Bubbles
+// The Legacy of Karbytes
 
-KARBYTES_item_0: chatgpt_karbytes_10may2025
+KARBYTES_item_0: about_karbytes
 
-KARBYTES_item_1: chatgpt_karbytes_21june2026
+KARBYTES_item_1: karbytes_unique_identity
 
-KARBYTES_item_2: karbytes_workflow_established_05august2025
+KARBYTES_item_2: sovereignty_of_karbytes
 
-KARBYTES_item_3: recursive_generative_void_illustration
+KARBYTES_item_3: karbytes_content_management_policy
