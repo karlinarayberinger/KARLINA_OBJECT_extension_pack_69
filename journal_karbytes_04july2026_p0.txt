@@ -40,7 +40,7 @@ KARBYTES_item_11: journal_karbytes_09june2026
 
 * * *
 
-// The Philosophy of Karbytes
+// The Philosophy of Karbytes (Metaphysics)
 
 KARBYTES_item_0: karbytes_ontology
 
@@ -54,19 +54,41 @@ KARBYTES_item_4: the_cosmos_as_fundamentally_digital
 
 KARBYTES_item_5: karbytes_declaration_of_grand_demands
 
-KARBYTES_item_6: chatgpt_karbytes_08february2026
+KARBYTES_item_6: nature
 
-KARBYTES_item_7: omniscience_might_not_exist
+KARBYTES_item_7: numbers
 
-KARBYTES_item_8: recursive_simulation_of_the_cosmos_concept_revisited
+KARBYTES_item_8: knowledge
 
-KARBYTES_item_9: chatgpt_karbytes_21september2025
+KARBYTES_item_9: multiverse
 
-KARBYTES_item_10: chatgpt_karbytes_14september2025
+KARBYTES_item_10: agency
 
-KARBYTES_item_11: learning_about_vacuum_energy
+KARBYTES_item_11: causality
 
-KARBYTES_item_12: heat_death_of_a_universe
+KARBYTES_item_12: chatgpt_karbytes_08february2026
+
+KARBYTES_item_13: omniscience_might_not_exist
+
+KARBYTES_item_14: recursive_simulation_of_the_cosmos_concept_revisited
+
+KARBYTES_item_15: chatgpt_karbytes_21september2025
+
+KARBYTES_item_16: chatgpt_karbytes_14september2025
+
+KARBYTES_item_17: learning_about_vacuum_energy
+
+KARBYTES_item_18: heat_death_of_a_universe
+
+* * *
+
+// The Philosophy of Karbytes (Ethics)
+
+KARBYTES_item_0: karbytes_primary_values
+
+KARBYTES_item_1: chatgpt_karbytes_11june2026
+
+KARBYTES_item_2: chatgpt_karbytes_14may2026
 
 * * *
 
@@ -82,9 +104,15 @@ KARBYTES_item_3: chatgpt_karbytes_19july2025
 
 KARBYTES_item_4: best_of_the_baylands_2024
 
-KARBYTES_item_5: a_relatively_private_journal_karbytes_20august2025
+KARBYTES_item_5: baylands_fremont_milpitas_2026
 
-KARBYTES_item_6: journal_karbytes_14june2026
+KARBYTES_item_6: a_relatively_private_journal_karbytes_20august2025
+
+KARBYTES_item_7: chatgpt_karbytes_16october2025
+
+KARBYTES_item_8: journal_karbytes_14june2026
+
+KARBYTES_item_9: chatgpt_karbytes_09march2026
 
 * * *
 
@@ -152,9 +180,13 @@ KARBYTES_item_8: karbytes_is_stuck
 
 KARBYTES_item_9: karbytes_stuck_web_pages
 
-KARBYTES_item_10: chatgpt_karbytes_20june2026
+KARBYTES_item_10: chatgpt_karbytes_04june2026
 
-KARBYTES_item_11: chatgpt_karbytes_18june2026
+KARBYTES_item_11: chatgpt_karbytes_13may2026
+
+KARBYTES_item_12: chatgpt_karbytes_20june2026
+
+KARBYTES_item_13: chatgpt_karbytes_18june2026
 
 * * *
 
@@ -162,12 +194,42 @@ KARBYTES_item_11: chatgpt_karbytes_18june2026
 
 KARBYTES_item_0: about_karbytes
 
-KARBYTES_item_1: karbytes_unique_identity
+KARBYTES_item_1: micro_directory_definition
 
-KARBYTES_item_2: chatgpt_karbytes_31may2026
+KARBYTES_item_2: karbytes_unique_identity
 
-KARBYTES_item_3: sovereignty_of_karbytes
+KARBYTES_item_3: journal_karbytes_01october2025
 
-KARBYTES_item_4: best_practices_for_using_the_web
+KARBYTES_item_4: karbytes_full_genome
 
-KARBYTES_item_5: journal_karbytes_29june2026
+KARBYTES_item_5: chatgpt_karbytes_31may2026
+
+KARBYTES_item_6: sovereignty_of_karbytes
+
+KARBYTES_item_7: public_domain
+
+KARBYTES_item_8: best_practices_for_using_the_web
+
+KARBYTES_item_9: journal_karbytes_29june2026
+
+KARBYTES_item_10: software_engineering_portfolio
+
+KARBYTES_item_11: geometric_kaleidoscope_morph
+
+KARBYTES_item_12: falling_apples_game_two
+
+KARBYTES_item_13: random_sound_track_player_with_stats
+
+KARBYTES_item_14: onion_web_page_availability_logger
+
+KARBYTES_item_15: karbytes_04_october_2024
+
+KARBYTES_item_16: journal_karbytes_28march2026
+
+KARBYTES_item_17: abridged_keyboard_musical_instrument
+
+KARBYTES_item_18: sound_track_loop_counter_two
+
+KARBYTES_item_19: pi_approximation
+
+KARBYTES_item_20: count_down_timer
