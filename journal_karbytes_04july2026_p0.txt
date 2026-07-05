@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_04july2026_p0.txt
  * type: plain-text
- * date: 04_JULY_2026
+ * date: 05_JULY_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -154,19 +154,21 @@ KARBYTES_item_13: chatgpt_karbytes_05june2025
 
 // The Geographic Traversals of Karbytes (In Hiatus)
 
-KARBYTES_item_0: journal_karbytes_21june2026
+KARBYTES_item_0: journal_karbytes_05july2026
 
-KARBYTES_item_1: chatgpt_karbytes_13july2026
+KARBYTES_item_1: journal_karbytes_21june2026
 
-KARBYTES_item_2: chatgpt_karbytes_30june2026
+KARBYTES_item_2: chatgpt_karbytes_13july2026
 
-KARBYTES_item_3: chatgpt_karbytes_07july2026
+KARBYTES_item_3: chatgpt_karbytes_30june2026
 
-KARBYTES_item_4: chatgpt_karbytes_06july2026
+KARBYTES_item_4: chatgpt_karbytes_07july2026
 
-KARBYTES_item_5: chatgpt_karbytes_05july2026
+KARBYTES_item_5: chatgpt_karbytes_06july2026
 
-KARBYTES_item_6: chatgpt_karbytes_15july2026
+KARBYTES_item_6: chatgpt_karbytes_05july2026
+
+KARBYTES_item_7: chatgpt_karbytes_15july2026
 
 * * *
 
