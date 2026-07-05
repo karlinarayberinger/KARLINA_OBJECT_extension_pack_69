@@ -1,0 +1,27 @@
+/**
+ * file: journal_karbytes_04july2026_p2.txt
+ * type: plain-text
+ * date: 04_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+// Turboscribe.ai transcriptions of some KARBYTES videos (featuring karbytes' spoken messages)...
+
+(Note that this journal entry web page is a sequel to the journal entry web page at the following Uniform Resource Locator: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/journal_karbytes_04july2026_p1.txt).
+
+(Note also that, unlike the previous journal entry text file, the transcribed videos featured in this newer journal entry text file were transcribed by a non-free version of the Turboscribe.ai. karbytes paid $20 today to start using that service monthly at a rate of $20 per month (which is similar to how karbytes pays $20 per month to use ChatGPT Plus (which is more than worth the cost as far as karbytes is concerned))).
+
+(Maybe the previous paragraph was an exaggeration (especially given that monetary cost of a product or service is subjective rather than some objective quantitative value such as simply the number of atoms inside of a bounded region of space for no "higher" reason than the literal physical fact of its existence (or lackthereof))).
+
+* * *
+
+RAW_TRANSCRIPTION_0
+
+~ ~ ~
+
+The following section of this file contains the raw output from the Turboscribe.ai website after uploading the following video file to be transcribed (in the English language).
+
+KARBYTES_video_file: [coming soon]
+
+~ ~ ~
