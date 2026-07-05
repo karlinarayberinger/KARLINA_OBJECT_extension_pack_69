@@ -29,3 +29,29 @@ KARBYTES_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLIN
 (1:56) I'm trying not to say more, because I know that I'll be tempted to start transcribing (2:04) literally everything I say, so this is just to break the fourth wall and say I'm celebrating (2:12) the fact that thanks to AI, I might not have to live in a third world country ever again. (2:19) And with the transcription tools, I don't have to spend hours laboring away transcribing (2:29) videos. (2:29) It can be done relatively instantaneously with these AI tools, so I basically gained (2:45) money without gaining literal currency in the form of what money represents.
 
 (2:54) Saved time, saved energy, and avoided suffering.
+
+* * *
+
+RAW_TRANSCRIPTION_1
+
+~ ~ ~
+
+The following section of this file contains the raw output from the Turboscribe.ai website after uploading the following video file to be transcribed (in the English language).
+
+KARBYTES_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/karbytes_immersed_in_a_KARBYTES_basement_04july2026_p1.mp4
+
+(0:01) Okay, I'm at my computer and I'm transcribing all the videos I didn't think I would transcribe (0:12) because I thought that I would have to pay money to use an AI service to do what I just did within (0:19) seconds. So yeah, those videos are now transcribed by turboscribe.ai, but I'm using the free version (0:31) probably eventually I'm going to have to pay, but so far I'm managing to get by without paying (0:37) any money to do this, which is very valuable. So my experience with money lately has been (0:46) kind of frustrating and kind of also exhilarating.
+
+The frustrating part is (0:53) when I have to deal with poverty inducing or poverty adjacent situations, I noticed that (1:00) my dollar value goes down. So the amount of actual things I can do with a dollar (1:09) seems to be reduced significantly in some situations. But with AI, especially free (1:15) versions of AI, a dollar value expands dramatically.
+
+But that's to say nothing of (1:24) the costs on the server end in terms of energy, pollution, (1:31) and other factors I'm not considering that could be dangerous. So like all things, (1:39) it's just about optimizing resource cost and trying to maximize the value, (1:50) the yields that one gets from investment. So I do invest, just not necessarily in traditional (2:00) obvious ways.
+
+I invest like how a spur of the moment gambler would invest. (2:09) A lot of it is spontaneous, but also a lot of it is contingent with a more long term (2:19) project, like what I'm working on now. It's a gigantic webpage, which links to other webpages (2:31) within Carbites across the entire span of Carbites thus far.
+
+The page is called journal (2:38) Carbites 04 July 2026. And that basically, I think, is the most data dense webpage within (2:51) Carbites thus far. And after that, I kind of feel like I'm getting past the bottleneck (2:57) in my Carbites development process.
+And then I can just kind of keep things cleaner and more (3:05) modular from then on out, because I finally got a chance to just wrap things up from the past (3:12) into one neat little box. And that box is that webpage. So I'll be sharing that on social media (3:21) within the next 24 hours, and also closing up Carbites 2026-6.
+
+And moving on to the next (3:32) edition of Carbites refinement, which is the third disk, by the way. And there's a total of (3:39) three disks, M disks, which have a maximum of 25 gigabyte capacity. So, so far, the entire Carbites (3:49) file collection spans three of those disks.
+
+And the third disk is about seven to eight gigabytes (3:57) full already. So there's still a lot of room, but I don't think I'm going to be filling it up (4:02) as quickly as I used to. So I won't be generating large files as often, because I'm trying to be (4:10) more focused on just text files and trying to minimize redundancy, as redundant as that sounds.
+(4:19) So yeah, I better get back to work. I have a lot to do.
