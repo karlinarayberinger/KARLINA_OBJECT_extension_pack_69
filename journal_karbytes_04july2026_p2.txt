@@ -22,6 +22,10 @@ RAW_TRANSCRIPTION_0
 
 The following section of this file contains the raw output from the Turboscribe.ai website after uploading the following video file to be transcribed (in the English language).
 
-KARBYTES_video_file: [coming soon]
+KARBYTES_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/karbytes_immersed_in_a_KARBYTES_basement_04july2026_p0.mp4
 
 ~ ~ ~
+
+(1:56) I'm trying not to say more, because I know that I'll be tempted to start transcribing (2:04) literally everything I say, so this is just to break the fourth wall and say I'm celebrating (2:12) the fact that thanks to AI, I might not have to live in a third world country ever again. (2:19) And with the transcription tools, I don't have to spend hours laboring away transcribing (2:29) videos. (2:29) It can be done relatively instantaneously with these AI tools, so I basically gained (2:45) money without gaining literal currency in the form of what money represents.
+
+(2:54) Saved time, saved energy, and avoided suffering.
