@@ -10,7 +10,7 @@ file_0: KARLINA_OBJECT_extension_pack_68-main.zip // SHA-256: 162be5bd0811aaaa58
 
 file_1: KARBYTES_BLOG_APPS_github_hosted_website-main_29march2026.zip // SHA-256: 8444386ea8ba6819723a94f9c735fb5a547dda5e80fb4a46d4ac94bf93a253b4
 
-file_2: karbytes_wayback_machine_saves_precision_batches_extension_1-main_06july2026.zip // SHA-256: 0d36318ad5eef2537ea3fd20122e5480c3801ec4e933ee145e7b04cbda36a608
+file_2: karbytes_wayback_machine_saves_precision_batches_extension_1-main_06july2026.zip // SHA-256: 35091c462d9ab9768110fb24ed7bce7f8dca0139c2562d23ae517df86b84685f
 
 file_3: KARLINA_OBJECT_extension_pack_63-main.zip // SHA-256: 62ddc42bf836de64108ffc72958f2917993314b1f27b87a4774a318b604d4062
 
@@ -30,7 +30,7 @@ file_10: karbytes_23AndMe_Ancestry_Data-main.zip // SHA-256: 5ebb70778d901ec6630
 
 file_11: KARLINA_OBJECT_extension_pack_65-main.zip // SHA-256: 404cfcb0bc9095780d42f2e4b853fe301d5e74c12236385f8c6a48175d151d58
 
-file_12: KARLINA_OBJECT_extension_pack_69-main_06july2026.zip // SHA-256: 7fb51e2f57f6dafcae4726d45a508b1ba63d28a92a297b276d5e5cc77d94ff54
+file_12: KARLINA_OBJECT_extension_pack_69-main_06july2026.zip // SHA-256: 4f590aa89ed75481d5e0b34c46c0dcf288b9f232773d8eed8e7d64bcc010cae7
 
 file_13: karbytes_wayback_machine_saves_precision_batches-main.zip // SHA-256: d5ca71b6097bcb52a37db14074c1c8d1b3ca3941905741ba775c3c0ccaf43a16
 
@@ -44,7 +44,7 @@ file_17: karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip /
 
 file_18: karbytes_basement_53-main.zip // SHA-256: d4e22e33c857d50d37b5396bb39275e62661e061577aa8567f82b8c55d278c40
 
-file_19: KARBYTES_FOR_LIFE_BLOG-main_06july2026.zip // SHA-256: b38939741260efd96c9b2b937d52af85bb48498568850cee16d5fcb275556161
+file_19: KARBYTES_FOR_LIFE_BLOG-main_06july2026.zip // SHA-256: 14640ec1be57498011e23ce205bae343e9c1bbbfa82d9263bafd551485ada7bd
 
 file_20: KARLINA_OBJECT_extension_pack_64-main.zip // SHA-256: a5f18e8ba85d6ff6e81699755d93052a0a00a558cb345bbe174f53e35ba8deb3
 
