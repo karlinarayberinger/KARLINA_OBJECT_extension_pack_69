@@ -546,6 +546,16 @@ I’m going to Dublin to do some errands.
 
 VIDEO_TRANSCRIPTION_12:
 
+video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/karbytes_hears_cicadas_from_burrow_25june2026_p0.mp4
+
+~ ~ ~
+
+I heard some cicadas, then they stopped. It's getting a bit foul in here, which is why I have this industrial fan.
+
+* * *
+
+VIDEO_TRANSCRIPTION_13:
+
 video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/karbytes_warmup_walk_big_green_thing_25june2026_p0.mp4
 
 ~ ~ ~
@@ -590,7 +600,7 @@ So yeah, karbytes is just an example of what a self could be. One of potentially
 
 * * *
 
-VIDEO_TRANSCRIPTION_13:
+VIDEO_TRANSCRIPTION_14:
 
 video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/karbytes_inspects_inventory_22june2026_p0.mp4
 
