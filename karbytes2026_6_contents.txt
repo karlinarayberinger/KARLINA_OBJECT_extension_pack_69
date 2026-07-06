@@ -30,7 +30,7 @@ file_10: karbytes_23AndMe_Ancestry_Data-main.zip // 6.45 megabytes
 
 file_11: KARLINA_OBJECT_extension_pack_65-main.zip // 562.72 megabytes
 
-file_12: KARLINA_OBJECT_extension_pack_69-main_06july2026.zip // 1216.60 megabytes
+file_12: KARLINA_OBJECT_extension_pack_69-main_06july2026.zip // 1239.12 megabytes
 
 file_13: karbytes_wayback_machine_saves_precision_batches-main.zip // 0.79 megabytes
 
@@ -56,6 +56,6 @@ file_22: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_30march2026.zip // 286.09 
 
 Total number of files: 23
 
-Total folder size: 6870.66 megabytes
+Total folder size: 6893.19 megabytes
 
 --------------------------------
