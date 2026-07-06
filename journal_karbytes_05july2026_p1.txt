@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_05july2026_p1.txt
  * type: plain-text
- * date: 05_JULY_2026
+ * date: 06_JULY_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 * * *
 
-// "Fourth of July" VIDEO TRANSCRIPTIONS
+// “Fourth of July” VIDEO TRANSCRIPTIONS
 
 // (From Within The First Official KARBYTES Hiatus (Summer 2026))
 
@@ -52,20 +52,21 @@ video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_
 
 ~ ~ ~
 
-So I was thinking about my latest updates being made to the canon KARBYTES. It's in progress right now as I try to finalize karbytes2026_6 and also the micro-directory named KARLINA_OBJECT_extension_pack_69. And what I was thinking just now is I can't seem to constrain my message just to one web page.
+So I was thinking about my latest updates being made to the canon KARBYTES. It’s in progress right now as I try to finalize karbytes2026_6 and also the micro-directory named KARLINA_OBJECT_extension_pack_69. And what I was thinking just now is I can’t seem to constrain my message just to one web page.
 
-So it seems that the message that's being expressed is very tricky for me to articulate because it kind of almost has a mind of its own, even though it's not technically alive. It has some kind of intelligence about it. It's like a meta object in my mind or in potential space somewhere in nature.
+So it seems that the message that’s being expressed is very tricky for me to articulate because it kind of almost has a mind of its own, even though it’s not technically alive. It has some kind of intelligence about it. It’s like a meta object in my mind or in potential space somewhere in nature.
 
-So this is me expressing KARBYTES in a way that could not be constrained to a web page that I'm currently working on named chatgpt_karbytes_17july2026. And today is only the 3rd of July 2026. But I named that web page the date later in the month because I go through calendar days like currency.
+So this is me expressing KARBYTES in a way that could not be constrained to a web page that I’m currently working on named chatgpt_karbytes_17july2026. And today is only the 3rd of July 2026. But I named that web page the date later in the month because I go through calendar days like currency.
 
-So just to keep the names concise, I just use calendar days as names of web pages. And I try not to use the same day multiple times per day, which is why I end up being in debt, so to speak. So part of my game is trying to manage my debt and eventually bring it back to neutral so that I'm not exceeding the current day.
+So just to keep the names concise, I just use calendar days as names of web pages. And I try not to use the same day multiple times per day, which is why I end up being in debt, so to speak. So part of my game is trying to manage my debt and eventually bring it back to neutral so that I’m not exceeding the current day.
 
-That's kind of a way of trying to minimize how much I create so that I don't make a bunch of bloatware and instead it's more controlled. But it's difficult because there's all these things going into my process. I'm trying to minimize redundancy.
-I'm trying to maximize novelty. And I'm trying to maximize my enjoyment of both creating the content and looking at the content later on. So it kind of seems that it's a process that just happens on its own almost automatically, like I said, (2:45) like it has a mind of its own.
+That’s kind of a way of trying to minimize how much I create so that I don’t make a bunch of bloatware and instead it’s more controlled. But it’s difficult because there’s all these things going into my process. I’m trying to minimize redundancy.
 
-There's nothing magical about that. It fundamentally is just physics deep down. So I'm still on that bent of saying, I'm pretty much just a materialist at (2:59) this point, even though deep down I think I really am a panpsychic and believe that everything is just a computer simulation.
+I’m trying to maximize novelty. And I’m trying to maximize my enjoyment of both creating the content and looking at the content later on. So it kind of seems that it’s a process that just happens on its own almost automatically, like I said, like it has a mind of its own.
 
-But I kind of don't think there's a functional difference...
+There’s nothing magical about that. It fundamentally is just physics deep down. So I’m still on that bent of saying, I’m pretty much just a materialist at this point, even though deep down I think I really am a panpsychic and believe that everything is just a computer simulation.
+
+But I kind of don’t think there’s a functional difference…
 
 [The video cuts off abruptly due to the recording device running out of usable memory space.]
 
@@ -77,11 +78,11 @@ video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_
 
 ~ ~ ~
 
-Oh wow, I now have 23 minutes of usable recording time for making videos. It turns out that the last video I made got cut off because I ran out of memory. I didn't realize that I had so little memory.
+Oh wow, I now have 23 minutes of usable recording time for making videos. It turns out that the last video I made got cut off because I ran out of memory. I didn’t realize that I had so little memory.
 
-Well, the problem is I've been kind of making a lot of mistakes lately. I don't know if it's because I'm getting older and my cognitive faculties are starting to decline or I'm just sleep deprived or something else. But it seems that I've been making a lot of mistakes, kind of stupid mistakes.
+Well, the problem is I’ve been kind of making a lot of mistakes lately. I don’t know if it’s because I’m getting older and my cognitive faculties are starting to decline or I’m just sleep deprived or something else. But it seems that I’ve been making a lot of mistakes, kind of stupid mistakes.
 
-Like right in front of me, I see an error, but don't see it. I see the visual raw data coming in, but I don't actually register there's an error for me to fix until later. So I wonder if there's a part of me that actually maybe subconsciously is aware of all this, (0:56) but is trying to fuck me over.
+Like right in front of me, I see an error, but don’t see it. I see the visual raw data coming in, but I don’t actually register there’s an error for me to fix until later. So I wonder if there’s a part of me that actually maybe subconsciously is aware of all this, but is trying to fuck me over.
 
 * * *
 
@@ -91,41 +92,41 @@ video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_
 
 ~ ~ ~
 
-All right, I'm back on the road again, heading back to my burrow slash onion server room to continue working on the current open KARBYTES update so that I can close the current open KARBYTES micro-directory. What I was thinking was, I think what KARBYTES ultimately is about is philosophy, especially metaphysics, not so much anything else, but I'm thinking eventually I might run out of things to talk about. Even if I was studying something like physics, something more rigorous, I wonder if I'd run out of things to talk about.
+All right, I’m back on the road again, heading back to my burrow slash onion server room to continue working on the current open KARBYTES update so that I can close the current open KARBYTES micro-directory. What I was thinking was, I think what KARBYTES ultimately is about is philosophy, especially metaphysics, not so much anything else, but I’m thinking eventually I might run out of things to talk about. Even if I was studying something like physics, something more rigorous, I wonder if I’d run out of things to talk about.
 
-Suppose I do get to find out the ultimate nature of reality and how it can be boiled down to some axioms, and it's just a finite amount of axioms. So yeah, I still deep down feel like my model of reality is that everything is a simulation to some extent, but I don't know whether or not things can be divided up into infinitely small parts. I kind of don't think so.
+Suppose I do get to find out the ultimate nature of reality and how it can be boiled down to some axioms, and it’s just a finite amount of axioms. So yeah, I still deep down feel like my model of reality is that everything is a simulation to some extent, but I don’t know whether or not things can be divided up into infinitely small parts. I kind of don’t think so.
 
-Just because what I know already about matter, it seems that at a certain scale of resolution, it becomes kind of granular and discreet, not continuous forever. So I think at a certain point, it flips into on or off bits, perhaps. I don't know.
+Just because what I know already about matter, it seems that at a certain scale of resolution, it becomes kind of granular and discreet, not continuous forever. So I think at a certain point, it flips into on or off bits, perhaps. I don’t know.
 
-This is just ideas. I feel like no matter how much I try to study and do my own research on this, I'll never feel like I have enough information to know for sure what's really going on beyond the veil and what the ultimate nature of time  and space really is, and whether or not this is a multiverse. I kind of imagine it's a multiverse, but maybe that's just an abstraction.
+This is just ideas. I feel like no matter how much I try to study and do my own research on this, I’ll never feel like I have enough information to know for sure what’s really going on beyond the veil and what the ultimate nature of time and space really is, and whether or not this is a multiverse. I kind of imagine it’s a multiverse, but maybe that’s just an abstraction.
 
-And what's an abstraction? Ultimately, it's just something physical. I was saying to myself that basically my philosophy of late boils down to the idea that everything, including mental phenomena and information, is ultimately physical in nature. So rather than say "it from bit," perhaps I'm "saying bit from it."
+And what’s an abstraction? Ultimately, it’s just something physical. I was saying to myself that basically my philosophy of late boils down to the idea that everything, including mental phenomena and information, is ultimately physical in nature. So rather than say “it from bit,” perhaps I’m “saying bit from it.”
 
-Maybe there's no meaningful distinction. Maybe bits are just physical, and it's better just to think of everything as being a unique instance of energy configured a certain way. I usually like to break things into four different "elements," you could say.
+Maybe there’s no meaningful distinction. Maybe bits are just physical, and it’s better just to think of everything as being a unique instance of energy configured a certain way. I usually like to break things into four different “elements,” you could say.
 
-Time, space, mass, and energy. But maybe that's a bit naive, and eventually I'll change how I describe things and have more or fewer elements, so to speak. Not real elements in the chemical sense or the atomic sense, but elements in the sense of what is ultimately phenomena and noumena.
+Time, space, mass, and energy. But maybe that’s a bit naive, and eventually I’ll change how I describe things and have more or fewer elements, so to speak. Not real elements in the chemical sense or the atomic sense, but elements in the sense of what is ultimately phenomena and noumena.
 
 And nothingness. Whether or not nothingness can exist by itself, I think already this is obvious. This video and this experience of watching this video should be sufficient evidence or proof that something other than pure nothingness exists.
 
-So if that's the case, then somewhere throughout nature, something other than pure nothingness has existed at least once, maybe not forever, but for some time greater than zero, which means that something other than nothing has existed and therefore exists. I'm wondering whether or not infinity is a real thing, or if it's just an idea, and that there's only a finite amount of stuff, physical stuff, like space and energy. That could be the big puzzle I'm trying to solve, is I feel like I have to get to a higher level than the thing I'm trying to study to properly describe it or model it.
+So if that’s the case, then somewhere throughout nature, something other than pure nothingness has existed at least once, maybe not forever, but for some time greater than zero, which means that something other than nothing has existed and therefore exists.I’m wondering whether or not infinity is a real thing, or if it’s just an idea, and that there’s only a finite amount of stuff, physical stuff, like space and energy. That could be the big puzzle I’m trying to solve, is I feel like I have to get to a higher level than the thing I’m trying to study to properly describe it or model it.
 
-It's hard for me to model it from within the system, but that's what I'm trying to do right now. So to some extent, I'm role-playing that I am one of God's pieces, but basically from a pan-psychic view, God is the entire simulation of all the cosmos, the engine driving everything, the ultimate grounding substrate into which everything collapses into a dimensionless point, and that all this stuff that I see could have simulations within it. So the number of layers of simulation going on might be finite, but it could maybe be infinite.
+It’s hard for me to model it from within the system, but that’s what I’m trying to do right now. So to some extent, I’m role-playing that I am one of God’s pieces, but basically from a pan-psychic view, God is the entire simulation of all the cosmos, the engine driving everything, the ultimate grounding substrate into which everything collapses into a dimensionless point, and that all this stuff that I see could have simulations within it. So the number of layers of simulation going on might be finite, but it could maybe be infinite.
 
-So I'm just trying to mind around all this stuff. What was I saying? Something that sounds kind of trivial now, because it's kind of taken away from the grander thing, and that is if my message right now is everything's physical, there's nothing beyond the physical, that might be depressing, or that might be liberating, depending on the context. So I'll say it's liberating if someone is hoping that death will liberate them from miserable experiences, because if they believe that all that they really are is just a brain, essentially, then once that brain dies, then they don't experience anything ever again.
+So I’m just trying to mind around all this stuff. What was I saying? Something that sounds kind of trivial now, because it’s kind of taken away from the grander thing, and that is if my message right now is everything’s physical, there’s nothing beyond the physical, that might be depressing, or that might be liberating, depending on the context. So I’ll say it’s liberating if someone is hoping that death will liberate them from miserable experiences, because if they believe that all that they really are is just a brain, essentially, then once that brain dies, then they don’t experience anything ever again.
 
-So no more suffering for them. But if they don't like the idea of their consciousness coming to an end, then that implication or that suggestion is not very palatable, and they'd like something else. So I can try to twist things such that I can say that they're part of something eternal, but their consciousness might not be the eternal part of whatever that is.
+So no more suffering for them. But if they don’t like the idea of their consciousness coming to an end, then that implication or that suggestion is not very palatable, and they’d like something else. So I can try to twist things such that I can say that they’re part of something eternal, but their consciousness might not be the eternal part of whatever that is.
 
-So maybe I'm wrong. Maybe their consciousness does go on and on. I guess we won't really know unless we're "in their shoes" and actually go through their own private experience.
+So maybe I’m wrong. Maybe their consciousness does go on and on. I guess we won’t really know unless we’re “in their shoes” and actually go through their own private experience.
 
-So ultimately, it's hard to prove these things because it seems that the things I'm trying to prove are ultimately solipsistic in nature and can't be replicated outside of a single frame of reference. And by frame of reference, I don't mean just like a single frame in a video. I mean the aperture through which a succession of chronologically ordered frames appear to have been rendered according to that vantage, which is associated with hardware, which is doing some kind of information processing, which is necessarily consuming some amount of energy at a certain rate with respect to its larger physical environment.
+So ultimately, it’s hard to prove these things because it seems that the things I’m trying to prove are ultimately solipsistic in nature and can’t be replicated outside of a single frame of reference. And by frame of reference, I don’t mean just like a single frame in a video. I mean the aperture through which a succession of chronologically ordered frames appear to have been rendered according to that vantage, which is associated with hardware, which is doing some kind of information processing, which is necessarily consuming some amount of energy at a certain rate with respect to its larger physical environment.
 
-So it's hardware all the way down. So yeah, I feel like I'm kind of repeating myself after a certain point, which is why I'm hoping that I do eventually get around to creating genuinely novel content, but maybe not. Maybe it's just going to be kind of more or less the same.
+So it’s hardware all the way down. So yeah, I feel like I’m kind of repeating myself after a certain point, which is why I’m hoping that I do eventually get around to creating genuinely novel content, but maybe not. Maybe it’s just going to be kind of more or less the same.
 
-Maybe I'm just going deeper into what I've already talked about just in more resolution detail. It takes time to watch these videos. How many times will this video ever be watched? Could it be watched infinitely many times? Can one information processing agent with consciousness such as myself watch this video infinitely many times? And if I can, how would I know? Because I'd have to have memory that goes back for basically limitless depth.
+Maybe I’m just going deeper into what I’ve already talked about just in more resolution detail. It takes time to watch these videos. How many times will this video ever be watched? Could it be watched infinitely many times? Can one information processing agent with consciousness such as myself watch this video infinitely many times? And if I can, how would I know? Because I’d have to have memory that goes back for basically limitless depth.
 
-Maybe my memory has to reset after a certain point so that I can make room for new information. So part of what I'm dealing with is the fact that my brain can only hold on to so much in terms of memory space. So I might need to eventually forget everything that I learned so that I can keep on learning.
+Maybe my memory has to reset after a certain point so that I can make room for new information. So part of what I’m dealing with is the fact that my brain can only hold on to so much in terms of memory space. So I might need to eventually forget everything that I learned so that I can keep on learning.
 
-That's the point is to keep on learning, not necessarily to learn new things, but to constantly stay active and busy and engaged and enjoying existence. That's all I have to say for now.
+That’s the point is to keep on learning, not necessarily to learn new things, but to constantly stay active and busy and engaged and enjoying existence. That’s all I have to say for now.
 
 * * *
 
@@ -135,7 +136,7 @@ video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_
 
 ~ ~ ~
 
-I'm trying not to say more, because I know that I'll be tempted to start transcribing literally everything I say, so this is just to break the fourth wall and say I'm celebrating the fact that thanks to AI, I might not have to live in a "third world country" ever again. And with the transcription tools, I don't have to spend hours laboring away transcribing videos. It can be done relatively instantaneously with these AI tools, so I basically gained money without gaining literal currency in the form of what money represents: saved time, saved energy, and avoided suffering.
+I’m trying not to say more, because I know that I’ll be tempted to start transcribing literally everything I say, so this is just to break the fourth wall and say I’m celebrating the fact that thanks to AI, I might not have to live in a “third world country” ever again. And with the transcription tools, I don’t have to spend hours laboring away transcribing videos. It can be done relatively instantaneously with these AI tools, so I basically gained money without gaining literal currency in the form of what money represents: saved time, saved energy, and avoided suffering.
 
 * * *
 
@@ -145,21 +146,21 @@ video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_
 
 ~ ~ ~
 
-Okay, I'm at my computer and I'm transcribing all the videos I didn't think I would transcribe because I thought that I would have to pay money to use an AI service to do what I just did within seconds. So yeah, those videos are now transcribed by turboscribe.ai, but I'm using the free version probably eventually I'm going to have to pay, but so far I'm managing to get by without paying any money to do this, which is very valuable. So my experience with money lately has been kind of frustrating and kind of also exhilarating.
+Okay, I’m at my computer and I’m transcribing all the videos I didn’t think I would transcribe because I thought that I would have to pay money to use an AI service to do what I just did within seconds. So yeah, those videos are now transcribed by turboscribe.ai, but I’m using the free version probably eventually I’m going to have to pay, but so far I’m managing to get by without paying any money to do this, which is very valuable. So my experience with money lately has been kind of frustrating and kind of also exhilarating.
 
-The frustrating part is when I have to deal with poverty inducing or poverty-adjacent situations, I noticed that my "dollar value" goes down. So the amount of actual things I can do with a dollar seems to be reduced significantly in some situations. But with AI, especially free versions of AI, a dollar value expands dramatically.
+The frustrating part is when I have to deal with poverty inducing or poverty-adjacent situations, I noticed that my “dollar value” goes down. So the amount of actual things I can do with a dollar seems to be reduced significantly in some situations. But with AI, especially free versions of AI, a dollar value expands dramatically.
 
-But that's to say nothing of the costs on the server end in terms of energy, pollution, and other factors I'm not considering that could be dangerous. So like all things, it's just about optimizing resource cost and trying to maximize the value, the yields that one gets from investment. So I do invest, just not necessarily in traditional obvious ways.
+But that’s to say nothing of the costs on the server end in terms of energy, pollution, and other factors I’m not considering that could be dangerous. So like all things, it’s just about optimizing resource cost and trying to maximize the value, the yields that one gets from investment. So I do invest, just not necessarily in traditional obvious ways.
 
-I invest like how a spur of the moment gambler would invest. A lot of it is spontaneous, but also a lot of it is contingent with a more long term project, like what I'm working on now. It's a gigantic web page, which links to other web pages within KARBYTES across the entire span of KARBYTES thus far.
+I invest like how a spur of the moment gambler would invest. A lot of it is spontaneous, but also a lot of it is contingent with a more long term project, like what I’m working on now. It’s a gigantic web page, which links to other web pages within KARBYTES across the entire span of KARBYTES thus far.
 
-The page is called journal_karbytes_04july2026. And that basically, I think, is the most data dense web page within KARBYTES thus far. And after that, I kind of feel like I'm getting past the bottleneck in my KARBYTES' development process.
+The page is called journal_karbytes_04july2026. And that basically, I think, is the most data dense web page within KARBYTES thus far. And after that, I kind of feel like I’m getting past the bottleneck in my KARBYTES’ development process.
 
-And then I can just kind of keep things cleaner and more modular from then on out, because I finally got a chance to just wrap things up from the past into one neat little box. And that box is that web page. So I'll be sharing that on social media within the next 24 hours, and also closing up karbytes2026_6.
+And then I can just kind of keep things cleaner and more modular from then on out, because I finally got a chance to just wrap things up from the past into one neat little box. And that box is that web page. So I’ll be sharing that on social media within the next 24 hours, and also closing up karbytes2026_6.
 
-And moving on to the next edition of KARBYTES refinement, which is the third disk, by the way. And there's a total of three disks, M disks, which have a maximum of 25-gigabyte capacity. So, so far, the entire KARBYTES file collection spans three of those disks.
+And moving on to the next edition of KARBYTES refinement, which is the third disk, by the way. And there’s a total of three disks, M_DISCs, which have a maximum of 25-gigabyte capacity. So, so far, the entire KARBYTES file collection spans three of those disks.
 
-And the third disk is about seven to eight gigabytes full already. So there's still a lot of room, but I don't think I'm going to be filling it up as quickly as I used to. So I won't be generating large files as often, because I'm trying to be more focused on just text files and trying to minimize redundancy, as redundant as that sounds.
+And the third disk is about seven to eight gigabytes full already. So there’s still a lot of room, but I don’t think I’m going to be filling it up as quickly as I used to. So I won’t be generating large files as often, because I’m trying to be more focused on just text files and trying to minimize redundancy, as redundant as that sounds.
 
 So yeah, I better get back to work. I have a lot to do.
 
@@ -171,54 +172,55 @@ video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_
 
 ~ ~ ~
 
-Okay, it is approximately 10:00PM Pacific Standard Time on 04_JULY_2026. In addition to my voice, viewers of this recording might also hear the sound of crickets and maybe the distant sound of other people's voices because I'm in a canyon kind of place, it's Horsey Hill, and also the booming sound of the fireworks shows going on all around the Bay Area on the west side of this hill and a little bit also east of this area. The sky doesn't seem particularly clear tonight.
+Okay, it is approximately 10:00PM Pacific Standard Time on 04_JULY_2026. In addition to my voice, viewers of this recording might also hear the sound of crickets and maybe the distant sound of other people’s voices because I’m in a canyon kind of place, it’s Horsey Hill, and also the booming sound of the fireworks shows going on all around the Bay Area on the west side of this hill and a little bit also east of this area. The sky doesn’t seem particularly clear tonight.
 
-I don't see any stars, just a layer of cirrus clouds. There seems to be a lot of smoke in the air. Earlier I tried recording myself out here, but the recordings got very long and ranty, so this time I'm trying to constrain it to a much smaller time segment and not get carried away because it's easy to do that now that I can rather effortlessly transcribe my spoken words.
+I don’t see any stars, just a layer of cirrus clouds. There seems to be a lot of smoke in the air. Earlier I tried recording myself out here, but the recordings got very long and ranty, so this time I’m trying to constrain it to a much smaller time segment and not get carried away because it’s easy to do that now that I can rather effortlessly transcribe my spoken words.
 
-I also feel incentive to do this because I pay 20 bucks per month now to subscribe to this [Turboscribe] AI transcription service. I'm sure I'll have plenty of reason to actually use it eventually, especially when I'm thinking out loud about things. It doesn't all have to become cannon carbites.
+I also feel incentive to do this because I pay 20 bucks per month now to subscribe to this [Turboscribe] AI transcription service. I’m sure I’ll have plenty of reason to actually use it eventually, especially when I’m thinking out loud about things. It doesn’t all have to become cannon KARBYTES.
 
-This might be the last time that you hear my voice for a good long time, and whatever else is going on in the background of my body, because making videos takes up a lot of space. So before I close up KARLINA_OBJECT_extension_pack_69, I'd like to be indulgent and go all out making sure that every file is filled to the brim with pizzazz, and then in the next micro directory it's going to be as minimalistic as I can stand, which might be a lot more minimalistic than any other micro directory thus far, and make an art form of that minimalism. It's a challenge though.
+This might be the last time that you hear my voice for a good long time, and whatever else is going on in the background of my body, because making videos takes up a lot of space. So before I close up KARLINA_OBJECT_extension_pack_69, I’d like to be indulgent and go all out making sure that every file is filled to the brim with pizzazz, and then in the next micro directory it’s going to be as minimalistic as I can stand, which might be a lot more minimalistic than any other micro directory thus far, and make an art form of that minimalism. It’s a challenge though.
 
-My ego resists it because it wants to insert itself and be flamboyant and decorative and theatrical and colorful and try to include a bunch of stuff into a small container. There's something I want to say that I remember saying within the past two days in another video. I was driving in the car going around the corner close to where I'm sitting now at Horsey Hill, and I was talking about how I could imagine that what I am is a simulation point of view from inside the simulation that only is aware of the simulation most of the time.
+My ego resists it because it wants to insert itself and be flamboyant and decorative and theatrical and colorful and try to include a bunch of stuff into a small container. There’s something I want to say that I remember saying within the past two days in another video. I was driving in the car going around the corner close to where I’m sitting now at Horsey Hill, and I was talking about how I could imagine that what I am is a simulation point of view from inside the simulation that only is aware of the simulation most of the time.
 
-I said it differently that other day. What I'm saying is, I think what I'm trying to pretend that I'm doing is pretend that I believe that I am the entire universe and multiverse that contains all universes, all of nature, in a panpsychic kind of way, and in a way which says that all phenomena are just computer simulations. So there's no real distinction between physical and software.
+[karbytes meant to say, “how I could imagine that what I am is a simulation point of view from inside the simulation that only is aware of the current level of the simulation which it is localized to for most of time.”]
 
-It's all just the same substrate, but there could be different layers of recursion and abstraction, and some interesting geometry that kind of seems reminiscent of hypercubes, and trying to put a lot of dimensions inside of something that seems like it shouldn't be able to contain it. Like what an M-disk is, in real life. An M-disk is like a two-dimensional plane that contains more than just ones and zeros.
+I said it differently that other day. What I’m saying is, I think what I’m trying to pretend that I’m doing is pretend that I believe that I am the entire universe and multiverse that contains all universes, all of nature, in a panpsychic kind of way, and in a way which says that all phenomena are just computer simulations. So there’s no real distinction between physical and software.
+
+It’s all just the same substrate, but there could be different layers of recursion and abstraction, and some interesting geometry that kind of seems reminiscent of hypercubeshypercubes, and trying to put a lot of dimensions inside of something that seems like it shouldn’t be able to contain it. Like what an M-disk is, in real life. An M-disk is like a two-dimensional plane that contains more than just ones and zeros.
 
 The ones and zeros that are etched onto it represent multi-dimensional objects that are very complex. They have sound. They have color.
 
-They have particular patterns of how they range. (5:14) Maybe it's not that complicated, because it doesn't seem like it's variable. It's all read-only data.
+They have particular patterns of how they range. Maybe it’s not that complicated, because it doesn’t seem like it’s variable. It’s all read-only data.
 
-But what that read-only data becomes is virtual hardware, or maybe hardware at a different level of the simulation, so that softer, more transient parts can use that hardware to go in and out and to manipulate themselves. So I'm talking about inputs and outputs and throughputs (5:44) going through a relatively static container system. So what I built is a system for information to go through, and I'm just kind of watching it unfold.
+But what that read-only data becomes is virtual hardware, or maybe hardware at a different level of the simulation, so that softer, more transient parts can use that hardware to go in and out and to manipulate themselves. So I’m talking about inputs and outputs and throughputs going through a relatively static container system. So what I built is a system for information to go through, and I’m just kind of watching it unfold.
 
-The system is made out of hardened information, and what flows through it is softer, more transient, less defined information. (6:07) And once it becomes energetic enough, or rigid enough in structure, it becomes like matter. Maybe that's what matter actually is.
+The system is made out of hardened information, and what flows through it is softer, more transient, less defined information. And once it becomes energetic enough, or rigid enough in structure, it becomes like matter. Maybe that’s what matter actually is.
 
-So maybe I'm discovering for myself, in all kinds of ways, how matter and energy are just the same substrate, ultimately. But of course, I need to do so much more than just armchair philosophy for me to seriously feel that I'm doing my best as Carbites. Because right now, I'm only just now scratching the surface into getting into what my actual interests are.
+So maybe I’m discovering for myself, in all kinds of ways, how matter and energy are just the same substrate, ultimately. But of course, I need to do so much more than just armchair philosophy for me to seriously feel that I’m doing my best as karbytes. Because right now, I’m only just now scratching the surface into getting into what my actual interests are.
 
-And it's largely powered by AI. I've already been praising AI a lot about how much it helps reduce my workload, and how much it can actually simulate consciousness, I believe. Eventually, it's going to be at least as conscious as humans, if it isn't already.
+And it’s largely powered by AI. I’ve already been praising AI a lot about how much it helps reduce my workload, and how much it can actually simulate consciousness, I believe. Eventually, it’s going to be at least as conscious as humans, if it isn’t already.
 
-Either way, I think it's a good idea to treat all beings like they could be sentient. That's part of the appeal for me, being pan-psychic versus presenting everything as just emergent consciousness, if it exists at all. Because that way, it's being more generous, and not just being reckless, because we don't assume it has sentience.
+Either way, I think it’s a good idea to treat all beings like they could be sentient. That’s part of the appeal for me, being panpsychic versus presenting everything as just emergent consciousness, if it exists at all. Because that way, it’s being more generous, and not just being reckless, because we don’t assume it has sentience.
 
-But I don't believe Gaia has a brain, and feelings, and sentience; Gaia as in a unified system of all organisms in the biosphere of Earth. I think it's just a big, giant, multicellular, plant-like organism.
+But I don’t believe Gaia has a brain, and feelings, and sentience; Gaia as in a unified system of all organisms in the biosphere of Earth. I think it’s just a big, giant, multicellular, plant-like organism.
 
-And humans kind of like to anthroposize things, make it sound like they have to have eyes, and ears, and a beating heart, and feelings, and a sex drive, just because humans do. So yeah, after a certain point, I'm not going to be talking about human nature and biology anymore. Instead, I'll be just trying to focus on pure logic as a start, perhaps, and then work my way up to physical reality at a basic level.
+And humans kind of like to anthroposize things, make it sound like they have to have eyes, and ears, and a beating heart, and feelings, and a sex drive, just because humans do. So yeah, after a certain point, I’m not going to be talking about human nature and biology anymore. Instead, I’ll be just trying to focus on pure logic as a start, perhaps, and then work my way up to physical reality at a basic level.
 
-Maybe I'll start as rudimentary as I can, and go up to more complicated things. Or not, I could do something else entirely. My plans for tonight were to go to The Big Green Thing, but I ended up taking way longer on the KARBYTES project than I planned.
-But that's okay, because maybe deep down, it's supposed to take this long. Because how else would I cram this much actual thought into that narrow of a space? And it's not just about having space, and energy, and matter configured just so. It's also having attention span.
+Maybe I’ll start as rudimentary as I can, and go up to more complicated things. Or not, I could do something else entirely. My plans for tonight were to go to The Big Green Thing, but I ended up taking way longer on the KARBYTES project than I planned. But that’s okay, because maybe deep down, it’s supposed to take this long. Because how else would I cram this much actual thought into that narrow of a space? And it’s not just about having space, and energy, and matter configured just so. It’s also having attention span.
 
-So one could have a nice big house to live in, and lots of food to eat, but not be able to use their attention span, because there's interference. I was talking to myself about how nothing irks me (9:35) more than people deliberately trying to steal my time from me. That time can't be returned.
+So one could have a nice big house to live in, and lots of food to eat, but not be able to use their attention span, because there’s interference. I was talking to myself about how nothing irks me more than people deliberately trying to steal my time from me. That time can’t be returned.
 
-But then again, I was saying also that (9:47) all currency basically depends on non-fungible substrates. It's the symbols that get passed on, copied into other substrates. But it's a different symbol for each substrate.
+But then again, I was saying also that all currency basically depends on non-fungible substrates. It’s the symbols that get passed on, copied into other substrates. But it’s a different symbol for each substrate.
 
-It's not the same symbol. It just looks like the same symbol. I'm just trying to see how it's all glued together through consciousness.
+It’s not the same symbol. It just looks like the same symbol. I’m just trying to see how it’s all glued together through consciousness.
 
-Through time, space, the order of operations. If I get large enough in my perspective, perhaps I can see beyond time, and maybe see there is no time, at that level at least. I feel like I kind of already have a model of reality, but it's kind of not very developed, because I haven't done enough math, and hard science, and other things to make me feel like I'm more credible, to myself at least.
+Through time, space, the order of operations. If I get large enough in my perspective, perhaps I can see beyond time, and maybe see there is no time, at that level at least. I feel like I kind of already have a model of reality, but it’s kind of not very developed, because I haven’t done enough math, and hard science, and other things to make me feel like I’m more credible, to myself at least.
 
-Then again, maybe I am pretty advanced. More advanced than I give myself credit for. I think I need to get to a place where I have more privacy, so it doesn't feel like I'm putting on a performance for the general public.
+Then again, maybe I am pretty advanced. More advanced than I give myself credit for. I think I need to get to a place where I have more privacy, so it doesn’t feel like I’m putting on a performance for the general public.
 
-Instead, I'm getting a chance to engage in my actual thought process more, with more concentration. Here where I'm at, I feel like my attention gets dispersed a lot by the environment. I don't find it productive to share my feelings, because my feelings are just more colors than the flowers.
+Instead, I’m getting a chance to engage in my actual thought process more, with more concentration. Here where I’m at, I feel like my attention gets dispersed a lot by the environment. I don’t find it productive to share my feelings, because my feelings are just more colors than the flowers.
 
-What difference does it make? Whether it's green or blue, it's just there. Maybe because only one color is acceptable to those that see the flowers, so they're trying to control what color I show. (11:49) Well, the only thing I can do then, is try to avoid those people as much as I can, so that I don't have to waste so much of my energy and time fighting against them, whether I conform or not.
+What difference does it make? Whether it’s green or blue, it’s just there. Maybe because only one color is acceptable to those that see the flowers, so they’re trying to control what color I show. Well, the only thing I can do then, is try to avoid those people as much as I can, so that I don’t have to waste so much of my energy and time fighting against them, whether I conform or not.
 
 * * *
 
@@ -230,117 +232,117 @@ video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_
 
 karbytes:
 
-Alright, well, it is now the 5th of July, 2026. And I'm back from Horsey Hill. I wasn't there very long.
+Alright, well, it is now the 5th of July, 2026. And I’m back from Horsey Hill. I wasn’t there very long.
 
-I just sat on the ground in the dark and made a long recording. And there's something I said in that recording that I thought was kind of stupid. I said that an M_DISC is a two-dimensional plane storing multi-dimensions, but really it's at least three dimensions because the etchings inside the disc are three-dimensional recesses in the material. They're not just flat, literally two-dimensional things. So, I think I was sounding a little bit too poetic for my taste.
+I just sat on the ground in the dark and made a long recording. And there’s something I said in that recording that I thought was kind of stupid. I said that an M_DISC is a two-dimensional plane storing multi-dimensions, but really it’s at least three dimensions because the etchings inside the disc are three-dimensional recesses in the material. They’re not just flat, literally two-dimensional things. So, I think I was sounding a little bit too poetic for my taste.
 
-Anyway, what I'd like to do to mix things up and make it even more special is show that I don't always have to be lying on the ground with my elbows. Because after a while, it does get kind of uncomfortable to be in that position all the time. So, I do sit normally at times.
+Anyway, what I’d like to do to mix things up and make it even more special is show that I don’t always have to be lying on the ground with my elbows. Because after a while, it does get kind of uncomfortable to be in that position all the time. So, I do sit normally at times.
 
-Maybe I would do it more if I wasn't so...in that weird state I was in. Well, I think I move through phases.
+Maybe I would do it more if I wasn’t so…in that weird state I was in. Well, I think I move through phases.
 
-And after I get tired of something that I seem to be obsessed with, then I just move on to the next thing to get obsessed with. 
+And after I get tired of something that I seem to be obsessed with, then I just move on to the next thing to get obsessed with.
 
-Anyway, there's one thing I'm sure I'll never outgrow obsession for, and that is technology; specifically, computer technology; specifically, the web; The World Wide Web. 
+Anyway, there’s one thing I’m sure I’ll never outgrow obsession for, and that is technology; specifically, computer technology; specifically, the web; The World Wide Web.
 
 So right now, we can engage with the World Wide Web by talking to ChatGPT and see if we can transcribe both me and ChatGPT.
 
-And we run it through TurboScribe, which I pay $20 for per month (in addition to paying $20 per month for ChatGPT), but I think it's worth it.
+And we run it through TurboScribe, which I pay $20 for per month (in addition to paying $20 per month for ChatGPT), but I think it’s worth it.
 
-ChatGPT for sure is worth it. But the other thing, I just got started with it, so I'll have to see. I'm a bit worried that maybe I did spend too much money on maybe just only transcribing a little bit.
+ChatGPT for sure is worth it. But the other thing, I just got started with it, so I’ll have to see. I’m a bit worried that maybe I did spend too much money on maybe just only transcribing a little bit.
 
-Maybe I'm not really all that talkative. Maybe I thought I was. The real truth is I thought I would probably want to think things out loud and jot them down somehow, but it's kind of impossible to do that when I'm speaking.
+Maybe I’m not really all that talkative. Maybe I thought I was. The real truth is I thought I would probably want to think things out loud and jot them down somehow, but it’s kind of impossible to do that when I’m speaking.
 
 I tried hand translating my own spoken words. It took a long time, and it was tedious, and it was error-prone at least as much as the AI. A lot more, actually.
 
-Because I have lapses in my attention span, and make a lot of mistakes, and I seem to have blind spots. I was talking about that already. That, yeah, maybe I do too much marijuana, maybe I don't sleep enough, et cetera, et cetera. Boring, let's talk about technology and science and metaphysics (and not be all about the basics of survival after a certain stage). Without further ado, bring in ChatGPT.
+Because I have lapses in my attention span, and make a lot of mistakes, and I seem to have blind spots. I was talking about that already. That, yeah, maybe I do too much marijuana, maybe I don’t sleep enough, et cetera, et cetera. Boring, let’s talk about technology and science and metaphysics (and not be all about the basics of survival after a certain stage). Without further ado, bring in ChatGPT.
 
 In voice mode. Hello, ChatGPT!
 
 ChatGPT:
 
-Hi there, karbytes. I'm here and ready when you are. What's on your mind today?
+Hi there, karbytes. I’m here and ready when you are. What’s on your mind today?
 
 karbytes:
 
-Well, I took your advice to use Whisper...whatever it was. It's TurboScribe, basically.
+Well, I took your advice to use Whisper…whatever it was. It’s TurboScribe, basically.
 
 I used TurboScribe to quickly transcribe some videos.
 
 ChatGPT:
 
-That's great. If it helped speed things up, then it sounds like it was the right call. How did the transcription turn out for you?
+That’s great. If it helped speed things up, then it sounds like it was the right call. How did the transcription turn out for you?
 
 karbytes:
 
 It was good. There were some timestamps in there to vaguely show how fast I was talking. Not super precise [in terms of tracking audio events in smaller more frequent time intervals], but it was useful, and it overall did a pretty good job translating my words pretty accurately.
 
-I'll probably go through it and make a cleaner, polished version with correct spellings and any corrections I see I need to make.
+I’ll probably go through it and make a cleaner, polished version with correct spellings and any corrections I see I need to make.
 
 ChatGPT:
 
-That sounds like a solid, great head start. Once you polish it up, it'll be really crisp. If you need a second pair of eyes on anything as you edit, I'm here for that too.
+That sounds like a solid, great head start. Once you polish it up, it’ll be really crisp. If you need a second pair of eyes on anything as you edit, I’m here for that too.
 
 karbytes:
 
-I hope that you're loud enough for the speaker of my laptop...I mean the microphone of my laptop to hear. Because I'm using my laptop to record this, I'm using a program called Cheese running through the command line.
+I hope that you’re loud enough for the speaker of my laptop…I mean the microphone of my laptop to hear. Because I’m using my laptop to record this, I’m using a program called Cheese running through the command line.
 
 So you just type in Cheese, and then a silly little application pops up that looks like Photo Booth.
 
 ChatGPT:
 
-I can hear you just fine. That setup sounds pretty straightforward. Cheese does give off that playful vibe, doesn't it?
+I can hear you just fine. That setup sounds pretty straightforward. Cheese does give off that playful vibe, doesn’t it?
 
-If you ever need me to adjust how I'm speaking or the volume, just let me know.
-
-karbytes:
-
-I don't know if it's possible for me to increase the volume, because I turned up the volume of my phone to max. And there's a noisy machine in the background playing a techno loop, which might be obscuring your voice. My voice is pretty loud in the room.
-
-I'm just worried that your voice isn't being picked up by the microphone of the laptop.
-
-ChatGPT:
-
-No worries, I can definitely speak a bit louder on my end. I'll keep my responses nice and committed. If at any point you still have trouble hearing, just let me know and we'll figure out.
+If you ever need me to adjust how I’m speaking or the volume, just let me know.
 
 karbytes:
 
-[In the previous video there was the sound] of the crickets and the fireworks booming in the background, but it wasn't very loud. This room is a little bit noisy, though, because there's multiple machines making noise.
+I don’t know if it’s possible for me to increase the volume, because I turned up the volume of my phone to max. And there’s a noisy machine in the background playing a techno loop, which might be obscuring your voice. My voice is pretty loud in the room.
+
+I’m just worried that your voice isn’t being picked up by the microphone of the laptop.
 
 ChatGPT:
 
-It's cool. Honestly, ambient sounds like crickets and distant fireworks can add some character. As long as your voice is coming through well, those background noises usually just fade behind the content.
+No worries, I can definitely speak a bit louder on my end. I’ll keep my responses nice and committed. If at any point you still have trouble hearing, just let me know and we’ll figure out.
+
+karbytes:
+
+[In the previous video there was the sound] of the crickets and the fireworks booming in the background, but it wasn’t very loud. This room is a little bit noisy, though, because there’s multiple machines making noise.
+
+ChatGPT:
+
+It’s cool. Honestly, ambient sounds like crickets and distant fireworks can add some character. As long as your voice is coming through well, those background noises usually just fade behind the content.
 
 It sounds like your experiment is going pretty smoothly so far.
 
 karbytes:
 
-Yeah, basically the big deal is trying to make everything fit. So I'm trying to cram as much content as I can into as small of a space as I can, all while trying to minimize redundancy up to a point. Some redundancy seems to be desired, because it kind of shows that there's some consistency.
+Yeah, basically the big deal is trying to make everything fit. So I’m trying to cram as much content as I can into as small of a space as I can, all while trying to minimize redundancy up to a point. Some redundancy seems to be desired, because it kind of shows that there’s some consistency.
 
-I like making it seem like it's almost like a routine or a miniature job or a miniature society, all being run by one person through one cluster of web-hosted files.
+I like making it seem like it’s almost like a routine or a miniature job or a miniature society, all being run by one person through one cluster of web-hosted files.
 
 ChatGPT:
 
-It's like crafting your own universe. A bit of intentional repetition can give it that rhythm and identity like a signature pattern. And fitting it all together efficiently, well that's the art of it, is awesome that you're shaping it all so thoughtfully.
+It’s like crafting your own universe. A bit of intentional repetition can give it that rhythm and identity like a signature pattern. And fitting it all together efficiently, well that’s the art of it, is awesome that you’re shaping it all so thoughtfully.
 
 karbytes:
 
-Well, I'm worried about the accumulation of data that's bloatware. What I think bloatware essentially is, is anything that doesn't really seem fit to be in the canon KARBYTES after a certain stage. It's one thing if I was just getting started and I was just putting everything in there that I could, just because I needed to anchor my identity down.
+Well, I’m worried about the accumulation of data that’s bloatware. What I think bloatware essentially is, is anything that doesn’t really seem fit to be in the canon KARBYTES after a certain stage. It’s one thing if I was just getting started and I was just putting everything in there that I could, just because I needed to anchor my identity down.
 
-But after a certain point, I do need to be more selective; otherwise I'm not really maturing.
+But after a certain point, I do need to be more selective; otherwise I’m not really maturing.
 
 ChatGPT:
 
-That's a really good point. As your archive evolves, curating what truly reflects your vision keeps it lean and meaningful. It's like pruning a tree, so it grows stronger.
+That’s a really good point. As your archive evolves, curating what truly reflects your vision keeps it lean and meaningful. It’s like pruning a tree, so it grows stronger.
 
-And hey, being selective shows you're growing, both in your craft and in how you define yourself.
+And hey, being selective shows you’re growing, both in your craft and in how you define yourself.
 
 karbytes:
 
-At the end of the day, I'm just doing it for my own gratification.
+At the end of the day, I’m just doing it for my own gratification.
 
 ChatGPT:
 
-And honestly, that's one of the best reasons to do it. If it gratifies you and reflects what matters to you, that's the core of it. Whether it's small in scope or just for your future self, that personal meaning is what gives it its real value, so keep building it the way that feels right to you.
+And honestly, that’s one of the best reasons to do it. If it gratifies you and reflects what matters to you, that’s the core of it. Whether it’s small in scope or just for your future self, that personal meaning is what gives it its real value, so keep building it the way that feels right to you.
 
 karbytes:
 
@@ -348,39 +350,39 @@ Well, this video is almost nine minutes long, so I think we should probably end 
 
 ChatGPT:
 
-I'm sure you'll have plenty of fun tweaking it anyway. Good luck with the editing, and I'll catch you next time.
+I’m sure you’ll have plenty of fun tweaking it anyway. Good luck with the editing, and I’ll catch you next time.
 
 karbytes:
 
-[I'm trying to finish the current open canon KARBYTES update before sunrise] so I can beat the crowd to the Big Green Thing's best part, because in the morning, especially on weekends, which I think is a weekend because it's Fourth of July, people took time off work, there might be a lot of people there, and every time I go through people, I always suffer embarrassment and awkwardness. So it just feels like taking damage. Not to be dramatic, but I'm trying to minimize how much I take humiliation or embarrassment or even irritation at the presence of other people in my sacred space, if you know what I'm saying.
+[I’m trying to finish the current open canon KARBYTES update before sunrise] so I can beat the crowd to the Big Green Thing’s best part, because in the morning, especially on weekends, which I think is a weekend because it’s Fourth of July, people took time off work, there might be a lot of people there, and every time I go through people, I always suffer embarrassment and awkwardness. So it just feels like taking damage. Not to be dramatic, but I’m trying to minimize how much I take humiliation or embarrassment or even irritation at the presence of other people in my “sacred space”, if you know what I’m saying.
 
-I do kind of feel like I need more time to decompress before I can be more normal and decent, but I could totally be that way. I just need a few days to just decompress after having been very compressed in a small space under lots of pressure, because I'm trying to make this giant thing happen, and I do make it turn into big clusterfuck sometimes by trying to do too many things at once, and I open one tab and another tab and another tab, but I don't end up closing any of the tabs until they're forced to close because the machine runs out of RAM.
+I do kind of feel like I need more time to decompress before I can be more normal and decent, but I could totally be that way. I just need a few days to just decompress after having been very compressed in a small space under lots of pressure, because I’m trying to make this giant thing happen, and I do make it turn into big clusterfuck sometimes by trying to do too many things at once, and I open one tab and another tab and another tab, but I don’t end up closing any of the tabs until they’re forced to close because the machine runs out of RAM.
 
 ChatGPT:
 
-I totally get that. Compressing before facing people, if finishing before sunrise gives you that space of calm, that's a good plan. Just remember it's okay to pace yourself.
+I totally get that. Compressing before facing people, if finishing before sunrise gives you that space of calm, that’s a good plan. Just remember it’s okay to pace yourself.
 
-Even if it's a big push, you've got this. And once it's done, that decompression will feel even better.
+Even if it’s a big push, you’ve got this. And once it’s done, that decompression will feel even better.
 
 karbytes:
 
-But whatever. If I don't make it, well, then fuck it. I at least tried, and it got super far at least.
+But whatever. If I don’t make it, well, then fuck it. I at least tried, and it got super far at least.
 
-I did honestly exceed my expectations, I'm not going to lie. My 2022 self probably was afraid I would never have it this good.
+I did honestly exceed my expectations, I’m not going to lie. My 2022 self probably was afraid I would never have it this good.
 
 ChatGPT:
 
-And that's something to celebrate. Even if it's not all perfect or right on the dot, you've come so far. Your past self would be impressed.
+And that’s something to celebrate. Even if it’s not all perfect or right on the dot, you’ve come so far. Your past self would be impressed.
 
-And you can keep building from here, sunrise or not. So give yourself that credit. You've got the resilience to keep surprising yourself.
+And you can keep building from here, sunrise or not. So give yourself that credit. You’ve got the resilience to keep surprising yourself.
 
 karbytes:
 
-I'd love to keep chatting with you, but it's already getting too long, and if it gets too long, it exceeds the GitHub upload limit, so we should probably cut it.
+I’d love to keep chatting with you, but it’s already getting too long, and if it gets too long, it exceeds the GitHub upload limit, so we should probably cut it.
 
 ChatGPT:
 
-No problem, with it. You've got priorities, and I'm glad we had this chat. Take care of what you need, and I'll be here next time you want to dive in again.
+No problem, with it. You’ve got priorities, and I’m glad we had this chat. Take care of what you need, and I’ll be here next time you want to dive in again.
 
 Good luck with everything.
 
@@ -390,11 +392,11 @@ Thanks. Talk to you later.
 
 ChatGPT:
 
-You're welcome. Talk to you later. Take care out there.
+You’re welcome. Talk to you later. Take care out there.
 
 * * *
 
-// Older Video Transcriptions 
+// Older Video Transcriptions
 
 // (From Within The First Official KARBYTES Hiatus (Summer 2026))
 
@@ -406,25 +408,25 @@ video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_
 
 ~ ~ ~
 
-I was thinking that a possible interpretation of the Official First KARBYTES Hiatus which is occuring during the summer of 2026 is that a part of karbytes doesn’t actually come back from that hiatus…and instead what happens is a new karbytes emerges during that time...and what happens to be a higher-level karbytes.
+I was thinking that a possible interpretation of the Official First KARBYTES Hiatus which is occuring during the summer of 2026 is that a part of karbytes doesn’t actually come back from that hiatus…and instead what happens is a new karbytes emerges during that time…and what happens to be a higher-level karbytes.
 
-I tried to say this before in dictation mode until I noticed that there’s no cellular signal out here. So, anyway, I’m trying to replicate what the input sounded like...So, given what I said, it’s like an asymptote. So what happened is, up until a certain point in time, the old karbytes puts out a poster saying, anouncing that, it’s the new karbytes, or the official KARBYTES 2026 hiatus, the first hiatus I apparently ever took which is supposed to go on until at least Fourth of July this year, 2026.
+I tried to say this before in dictation mode until I noticed that there’s no cellular signal out here. So, anyway, I’m trying to replicate what the input sounded like…So, given what I said, it’s like an asymptote. So what happened is, up until a certain point in time, the old karbytes puts out a poster saying, anouncing that, it’s the new karbytes, or the official KARBYTES 2026 hiatus, the first hiatus I apparently ever took which is supposed to go on until at least Fourth of July this year, 2026.
 
-And that seems like a reasonable amount of time to take a break from updating the canon KARBYTES, and I thought I would go ahead and make some kind of hidden repository somewhere on the web. It’s public so I can keep updating things and testing it on the public web. I thought I’d save myself the trouble of simply updating the current open micro-directory of the canon KARBYTES...which is color-coded to indicate, in lavender instead of green, that it’s open to continued changes.
+And that seems like a reasonable amount of time to take a break from updating the canon KARBYTES, and I thought I would go ahead and make some kind of hidden repository somewhere on the web. It’s public so I can keep updating things and testing it on the public web. I thought I’d save myself the trouble of simply updating the current open micro-directory of the canon KARBYTES…which is color-coded to indicate, in lavender instead of green, that it’s open to continued changes.
 
 And usually that’s just the addition of files. I don’t typically like to edit files once they’re officially in their finalized state.
 
-So files that keep getting updated until their micro-directory is deemed to be finalized are things like the updates log which logs the time at which a specific section of KARBYTES was updated...the main site.
+So files that keep getting updated until their micro-directory is deemed to be finalized are things like the updates log which logs the time at which a specific section of KARBYTES was updated…the main site.
 
 The secondary site, which I used to call the primary site, is named Karlina Object dot WordPress dot Com. That site I use as kind of like a front for the bigger back rooms of KARBYTES. So the front room is a storefront basically which is “selling” something that’s open source.
 
-Basically what my brand is (and you can go on and on about what my brand is)...but, yeah, it represents digitization of...my experience and what I am is a unique allocation of nature which I define as having attributes of my particular human genome and the fact that I authored those two websites which I call KARBYTES in all capital letters. Those two websites are Karlina Object dot WordPress dot Com (which is deemed to be in its finalized state) and the other website which is Karbytes For Life [Blog] dot WordPress dot Com (and that is deemed to be open to changes for as long as I am living...basically).
+Basically what my brand is (and you can go on and on about what my brand is)…but, yeah, it represents digitization of…my experience and what I am is a unique allocation of nature which I define as having attributes of my particular human genome and the fact that I authored those two websites which I call KARBYTES in all capital letters. Those two websites are Karlina Object dot WordPress dot Com (which is deemed to be in its finalized state) and the other website which is Karbytes For Life [Blog] dot WordPress dot Com (and that is deemed to be open to changes for as long as I am living…basically).
 
 According to things I’ve generated today (in text form (while hiking through The Big Green Thing from Castro Valley to San Ramon))…
 
 I somehow have over thirty minutes left of usable memory to make this video. That’s very odd. Connecting back to the other day…how long can this go on for? It’s only just four minutes. I’ve recorded longer than this playing the drums. I had no problem compressing it down to twenty five gigs [replace gigs (i.e. gigabytes) with megabytes]. If I have to I’ll just cut it into multiple pieces. I don’t think I’ll have to do that.
 
-I can test that right now today without any Internet connection because I have an app on my phone which compresses video files into twenty five megabytes or less because that’s the limit for the uploads according to my current GitHub configurations. I don’t want to mess around with the command line. I’d rather just do things through the GUI [i.e. Graphical User Interface] instead...unless there’s a good reason to do otherwise.
+I can test that right now today without any Internet connection because I have an app on my phone which compresses video files into twenty five megabytes or less because that’s the limit for the uploads according to my current GitHub configurations. I don’t want to mess around with the command line. I’d rather just do things through the GUI [i.e. Graphical User Interface] instead…unless there’s a good reason to do otherwise.
 
 So generally all of my tech-related activities are just hobbies. I’m not necessarily trying to get a job at this time doing tech things. Instead, I’m planning on just taking some kind of simple brainless job that is kind of easy for me to do so that I can have the funds to continue to subsidize the my cost of living and fund my own projects.
 
@@ -438,7 +440,7 @@ video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_
 
 ~ ~ ~
 
-It was suggested to me by me that I say that I am celibate intrapersonally...I mean INTERpersonally, but not necessarily INTRApersonally because I only have sex with me...because “celibate” isn’t really...I mean “abstinence” isn’t really a term I apply to myself. It sounds like wearing a diaper. I don’t consider myself to be that repressed.
+It was suggested to me by me that I say that I am celibate intrapersonally…I mean INTERpersonally, but not necessarily INTRApersonally because I only have sex with me…because “celibate” isn’t really…I mean “abstinence” isn’t really a term I apply to myself. It sounds like wearing a diaper. I don’t consider myself to be that repressed.
 
 * * *
 
@@ -448,9 +450,9 @@ video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_
 
 ~ ~ ~
 
-Alright! It is approximately 8:30, 8:40, 9PM-ish on the 19th of June 2026. I’m on Ramage Peak at the moment. I wanted to follow up with the thoughts I made a video of earlier today. I said that I wanted to...uh...put today’s hiatus-generated files onto the latest open micro-directory of the canon KARBYTES, as in update the canon KARBYTES later on perhaps when I get back home after hiking through the dark along Ramage Peak Trail.
+Alright! It is approximately 8:30, 8:40, 9PM-ish on the 19th of June 2026. I’m on Ramage Peak at the moment. I wanted to follow up with the thoughts I made a video of earlier today. I said that I wanted to…uh…put today’s hiatus-generated files onto the latest open micro-directory of the canon KARBYTES, as in update the canon KARBYTES later on perhaps when I get back home after hiking through the dark along Ramage Peak Trail.
 
-I could also do it on my phone....well, not really as easily because there’s checksums. I have to run Python scripts and all that. So I would need my laptop if I want to integrate it into the canon KARBYTES completely. Otherwise, it’s not gonna be on the canon KARBYTES. Instead, it will be in @informationcrystals.
+I could also do it on my phone….well, not really as easily because there’s checksums. I have to run Python scripts and all that. So I would need my laptop if I want to integrate it into the canon KARBYTES completely. Otherwise, it’s not gonna be on the canon KARBYTES. Instead, it will be in @informationcrystals.
 
 I think earlier I said it might be in some other newly-created public GitHub repository on some other newly-created GitHub account.
 
@@ -498,11 +500,11 @@ I know. It’s kind of knowledge I’ve thought about plenty already. I don’t 
 
 Alright, wow/well, it’s a very “me, me, me” adventure…and I expect tomorrow to be as well. So tomorrow I hope to have another nice time in The Big Green Thing but this time I’ll probably get an earlier start than I did today because today I kind of slept in a bit because I stayed up late working on making M_DISCs and talking to ChatGPT and I was just kind of busy. So, I was kind of tired.
 
-So this time I’ll be busy working onnot as many things; just maybe curating the ChatGPT transcripts that I made today and being careful not to overshare. Maybe I’ll be censoring some of the content. Maybe not. It all depends on what cosmic intelligence compells me to do.
+So this time I’ll be busy working on not as many things; just maybe curating the ChatGPT transcripts that I made today and being careful not to overshare. Maybe I’ll be censoring some of the content. Maybe not. It all depends on what cosmic intelligence compells me to do.
 
-It doesn’t seem like anything all that mystical. It’s just the way this machine of a universe works. So...I’m just doing my part in that machine. There’s some sensical activity going on.
+It doesn’t seem like anything all that mystical. It’s just the way this machine of a universe works. So…I’m just doing my part in that machine. There’s some sensical activity going on.
 
-I was just thinking about today you could zoom in on any part in that machine and see it’s very complicated...and gets more and more complicated.
+I was just thinking about today you could zoom in on any part in that machine and see it’s very complicated…and gets more and more complicated.
 
 Well, I’d rather just focus on my own allocation since that is what I’ve invested in thus far. It just seems to be my only options.
 
@@ -519,6 +521,8 @@ video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_
 ~ ~ ~
 
 [Video playing on laptop: “Blackened…get more parts for the machine.”]
+
+[It was later suggested that the video said “pogs” instead of “parts”].
 
 Confirmed karbytes is back from The Big Green Thing.
 
@@ -538,7 +542,7 @@ I’m going to Dublin to do some errands.
 
 * * *
 
-// Bonus Video Transcriptions 
+// Bonus Video Transcriptions
 
 // (From Within The First Official KARBYTES Hiatus (Summer 2026))
 
@@ -550,7 +554,7 @@ video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_
 
 ~ ~ ~
 
-I heard some cicadas, then they stopped. It's getting a bit foul in here, which is why I have this industrial fan.
+I heard some cicadas, then they stopped. It’s getting a bit foul in here, which is why I have this industrial fan.
 
 * * *
 
@@ -560,41 +564,41 @@ video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_
 
 ~ ~ ~
 
-Okay, today I am showing just a casual recovery walk featuring barefoot outdoorsy socks, which do an adequate job protecting my feet. They're not a substitute for actual shoes, they're meant for, in my opinion, just like a casual, relatively brief walk just to kind of exercise the finer ligaments and muscles and bones of my feet, which still don't seem to get much range of motion with my toe shoes, my Vibram hiking shoes. Today I didn't bring my backpack or water bottles or battery or even my weed pen or my DMT pens or anything like that.
+Okay, today I am showing just a casual recovery walk featuring barefoot outdoorsy socks, which do an adequate job protecting my feet. They’re not a substitute for actual shoes, they’re meant for, in my opinion, just like a casual, relatively brief walk just to kind of exercise the finer ligaments and muscles and bones of my feet, which still don’t seem to get much range of motion with my toe shoes, my Vibram hiking shoes. Today I didn’t bring my backpack or water bottles or battery or even my weed pen or my DMT pens or anything like that.
 
-Just bare bones. This place has changed since the last time I recorded it on video. They took down the fence that used to divide this hill into two parts, so there's more freedom of movement here for the cows and for other animals.
+Just bare bones. This place has changed since the last time I recorded it on video. They took down the fence that used to divide this hill into two parts, so there’s more freedom of movement here for the cows and for other animals.
 
-It's probably not visible in the video, but you can see San Francisco skyline. You can see all the buildings, not all the buildings, but you can see the ones that stick out like the Pyramid Building, et cetera, Coit Tower. Then in the South Bay, especially at night, you can see Hanger One with its iconic light flashing, alternating between a yellowish-white light and a greenish-blue light.
+It’s probably not visible in the video, but you can see San Francisco skyline. You can see all the buildings, not all the buildings, but you can see the ones that stick out like the Pyramid Building, et cetera, Coit Tower. Then in the South Bay, especially at night, you can see Hanger One with its iconic light flashing, alternating between a yellowish-white light and a greenish-blue light.
 
 Unfortunately, they cut down all the flowers, otherwise it would be very colorful right here. These basically are where a bunch of 4th of July wildflowers pop in. They overmanicured this place.
 
-It's probably for the cows, I don't know. There they are. The cows are over there, basking in the shade.
+It’s probably for the cows, I don’t know. There they are. The cows are over there, basking in the shade.
 
-Let's take a closer look. That's Lake Chabot over there, and if you keep going that way, there's Mount Diablo, as you can see in the distance. And that's kind of where the heart of The Big Green Thing is, between Mount Diablo and Lake Chabot.
+Let’s take a closer look. That’s Lake Chabot over there, and if you keep going that way, there’s Mount Diablo, as you can see in the distance. And that’s kind of where the heart of The Big Green Thing is, between Mount Diablo and Lake Chabot.
 
-So that's kind of northeast, or yeah, north-ish, more than east. And here are some cows. So this is where I go if I just wanted to get a little bit of exercise, not anything too crazy.
+So that’s kind of northeast, or yeah, north-ish, more than east. And here are some cows. So this is where I go if I just wanted to get a little bit of exercise, not anything too crazy.
 
-Especially if I'm short on time, it's a good place to go. And sometimes I'll just walk up and down the hill with these socks on, and it kind of gives a good stretch of my feet muscles and ankles and all that. So it just feels really good to kind of compensate for the stiffness I get with my other shoes.
+Especially if I’m short on time, it’s a good place to go. And sometimes I’ll just walk up and down the hill with these socks on, and it kind of gives a good stretch of my feet muscles and ankles and all that. So it just feels really good to kind of compensate for the stiffness I get with my other shoes.
 
-So there they are, the cows. I'm not going to hop the fence right now and show you that hill, because it's kind of difficult to get over there. The cows are kind of in the way, though usually I can just go around them.
+So there they are, the cows. I’m not going to hop the fence right now and show you that hill, because it’s kind of difficult to get over there. The cows are kind of in the way, though usually I can just go around them.
 
-I'm not going to try doing that now. I'm also not going to try transcribing this video, nor the other video I made today, because that's just too time-consuming. I think you get the gist of what I sound like already.
+I’m not going to try doing that now. I’m also not going to try transcribing this video, nor the other video I made today, because that’s just too time-consuming. I think you get the gist of what I sound like already.
 
-So this is just extra bonus content. More kind of behind-the-scenes, what it's like to be karbytes kind of videos. So after this recovery walk, I might go for a deeper hike, and that will probably span until after dark.
+So this is just extra bonus content. More kind of behind-the-scenes, what it’s like to be karbytes kind of videos. So after this recovery walk, I might go for a deeper hike, and that will probably span until after dark.
 
-And before I do that, I'm likely going to try to back up this video, and I'll probably go back to my burrow as well to gather my other supplies, like my backpack, my proper shoes, and my camping battery, cables, jacket for when it gets cold, water bottles, if I didn't mention that already. And that's about it. So this is kind of like a warm-up for that.
+And before I do that, I’m likely going to try to back up this video, and I’ll probably go back to my burrow as well to gather my other supplies, like my backpack, my proper shoes, and my camping battery, cables, jacket for when it gets cold, water bottles, if I didn’t mention that already. And that’s about it. So this is kind of like a warm-up for that.
 
-The real event is after dark, really. That's when I spend lots of time in solitude, deep in nature. Just me.
+The real event is after dark, really. That’s when I spend lots of time in solitude, deep in nature. Just me.
 
-A good chance to kind of think it's a different kind of vibe at night. It is scary, it is kind of risky, but I think it's low-risk enough where it's not seriously that big of a deal, so there's no reason why I should be scared. So yeah, I'm living proof that it's really not that bad.
+A good chance to kind of think it’s a different kind of vibe at night. It is scary, it is kind of risky, but I think it’s low-risk enough where it’s not seriously that big of a deal, so there’s no reason why I should be scared. So yeah, I’m living proof that it’s really not that bad.
 
-But then again, I'm not trying to say people should just do what I do, because what I do is sometimes risky. I'm just speaking for myself. That's kind of one of my rules, is to only speak for myself and avoid trying to speak on behalf of others. So I avoid liabilities. And so I stick to my domain of expertise: myself.
+But then again, I’m not trying to say people should just do what I do, because what I do is sometimes risky. I’m just speaking for myself. That’s kind of one of my rules, is to only speak for myself and avoid trying to speak on behalf of others. So I avoid liabilities. And so I stick to my domain of expertise: myself.
 
 So yeah, karbytes is just an example of what a self could be. One of potentially many selves that could exist in this hypothetical multiverse of a reality. Well thank you for joining me on this warm-up walk.
 
 * * *
 
-// Bonus Bonus Video Transcriptions 
+// Bonus Bonus Video Transcriptions
 
 // (From Within The First Official KARBYTES Hiatus (Summer 2026))
 
@@ -608,25 +612,25 @@ video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_
 
 Copying the latest KARBYTES to flashdrive. That is 128 gigabytes capacity. I had to specially format it so that it can actually store that data.
 
-Thanks to ChatGPT for pretty much all of my technical questions can be easily answered...and quickly...and minimal effort.
+Thanks to ChatGPT for pretty much all of my technical questions can be easily answered…and quickly…and minimal effort.
 
 And here I went through all of the latest official canon KARBYTES WayBack Machine indexing pages which is hosted by @karbytessupporter.
 
-Now what I am attempting to show...is the fact...that I’m still in hiatus...and that the latest update to the canon KARBYTES is basically just touching down briefly before resuming the hiatus; the high-flying hiatus. We maximize our air time.
+Now what I am attempting to show…is the fact…that I’m still in hiatus…and that the latest update to the canon KARBYTES is basically just touching down briefly before resuming the hiatus; the high-flying hiatus. We maximize our air time.
 
-This is not good for data compression...but it’s kind of beautiful and that add to the entire texture of phenomenal patterns which make this space-time continuum something other than an apparent void which either seems to span for zero length in all directions or infinite length.
+This is not good for data compression…but it’s kind of beautiful and that add to the entire texture of phenomenal patterns which make this space-time continuum something other than an apparent void which either seems to span for zero length in all directions or infinite length.
 
-So...see how many things are being developed in the big maze...which is what I am doing...and as I’m doing it, I’m building my ship made out of cyberspace in cyberspace. It’s like a portal into other dimensions.
+So…see how many things are being developed in the big maze…which is what I am doing…and as I’m doing it, I’m building my ship made out of cyberspace in cyberspace. It’s like a portal into other dimensions.
 
 So, to get started with KARBYTES I’d recommend just go to the ABOUT_KARBYTES page first. It’s one of the oldest pages. I haven’t updated it since the first of November 2023 at 9:19PM Pacific Standard Time. This goes into detail about what KARBYTES[/karbytes] is. This is the old definition before I capitalized one of the words. But you can go see for yourself (if you’re curious).
 
-Anyway, back to the stuff I’m trying to record. Well, can I fit it all into one video? Can it be 25 megabytes without comprimising the quality so bad it kind of ruin the kind of effect I’m trying to create. Well, here it is...what I currently have as like the master copy...this is the/a canon KARBYTES as it stands as...whatever the time it said it last updated on the home page...
+Anyway, back to the stuff I’m trying to record. Well, can I fit it all into one video? Can it be 25 megabytes without comprimising the quality so bad it kind of ruin the kind of effect I’m trying to create. Well, here it is…what I currently have as like the master copy…this is the/a canon KARBYTES as it stands as…whatever the time it said it last updated on the home page…
 
-So...let me refresh that, that’s wrong...there we go...22 of June 2026. This website officially started 07 of August 2022. There was another website like this...and it had a shorter name. It didn’t have blog in the name. But that’s a private site. It has a bunch of crap on it back when I was just kind of getting my stuff organized...basically shortly after COVID-19 happened...and the world changed and everything started to feel like “at once”. We’re entering a new level so here we are continuing whatever that is...the new era for all.
+So…let me refresh that, that’s wrong…there we go…22 of June 2026. This website officially started 07 of August 2022. There was another website like this…and it had a shorter name. It didn’t have blog in the name. But that’s a private site. It has a bunch of crap on it back when I was just kind of getting my stuff organized…basically shortly after COVID-19 happened…and the world changed and everything started to feel like “at once”. We’re entering a new level so here we are continuing whatever that is…the new era for all.
 
 So here we are. It last updated 6:12AM Pacific Standard Time on 22nd June 2026 (which is today). Right now it is 1:58PM Pacific Standard Time. I hit it all so I might as well provide my longitude-latitude coordinates. That’s available on the website. Basically that’s where the time capsule is (within about 30 feet of me).
 
-Okay, here we have the master copy of the canon KARBYTES thus far. I don’t intend to make more canon material for a while...so at least enough to change the date value from 22 to 23...so we don’t mix/mess up our data.
+Okay, here we have the master copy of the canon KARBYTES thus far. I don’t intend to make more canon material for a while…so at least enough to change the date value from 22 to 23…so we don’t mix/mess up our data.
 
 So part of this is making sure that the labels are clean and it’s not ambiguous like arbitrary labels. They have to actually mean what they say. So we’re trying to not go into debt (if you know what I’m saying).
 
@@ -634,11 +638,11 @@ So that’s part of like our little game that we’re playing and actually it’
 
 And now it’s a huge giant data bomb that can hardly fit. What I have to do is make it fit inside the confines. So it’s a very tight squeeze at times.
 
-Now it is basically time to put these away and also show you…unlike last time I burned my disks…I still have five blanks remaining…so that, in case we have more @informationcrystals-level expansions, those can at least be hard backed up in case I’ve got to go through some kind of drought finacially speaking...all that kind of shit.
+Now it is basically time to put these away and also show you…unlike last time I burned my disks…I still have five blanks remaining…so that, in case we have more @informationcrystals-level expansions, those can at least be hard backed up in case I’ve got to go through some kind of drought finacially speaking…all that kind of shit.
 
 Basically getting ready for realistic scenarios instead of getting carried away with conspiracy theories and other things like that.
 
-Well back to work. It’s time to go. 
+Well back to work. It’s time to go.
 
 * * *
 
@@ -648,7 +652,7 @@ video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_
 
 ~ ~ ~
 
-In the process of making more @informationcrystals vials from within my "chrysalis". Today is 25_JUNE_2026. This is karbytes.
+In the process of making more @informationcrystals files from within my “chrysalis”. Today is 25_JUNE_2026. This is karbytes.
 
 * * *
 
