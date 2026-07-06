@@ -1,0 +1,21 @@
+/**
+ * file: journal_karbytes_05july2026_p2.txt
+ * type: plain-text
+ * date: 05_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes_0: "I prefer reality exactly as it is."
+
+karbytes_1: "I thought you had special conditions that needed to be fulfilled in order for you to be happy (and, if those conditions are not fulfilled exactly as you specified in KARBYTES_DECLARATION_OF_GRAND_DEMANDS, then you can never be satisfied."
+
+karbytes_2: "I am not necessarily karbytes_0 nor karbytes_1. I could be both of them or neither of them (within a specified context). Whether or not I am... 
+
+karbytes_0 xor karbytes_1, 
+
+neither karbytes_0 nor karbytes_1,
+
+karbytes_0 and karbytes_1 simultaneously,
+
+depends on what level of the static_block_multiverse_model_of_reality the control is at (and 'control' is defined in this file as being the most relevant aperture of consciousness (or of information processing in general) in a given context)."
