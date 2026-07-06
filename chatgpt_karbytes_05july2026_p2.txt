@@ -24,6 +24,8 @@ Here is the visible text I can read from the image:
 
 ~ ~ ~
 
+[preformatted_text]
+
 Jul 5 18:23
 
 qkbrwfubnh4knc6kkhx
@@ -38,7 +40,11 @@ http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/
 
 3
 
+[end preformatted_text]
+
 ~ ~ ~
+
+[preformatted_text]
 
 karbytes_darknet_websites_root_directory_web_page.html
 
@@ -65,6 +71,8 @@ ABRIDGED_KEYBOARD_MUSICAL_INSTRUMENT:
 
 • live_application: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARBYTES_BLOG_APPS/
 ABRIDGED_KEYBOARD_MUSICAL_INSTRUMENT/abridged_keyboard_musical_instrument.html
+
+[end preformatted_text]
 
 ~ ~ ~
 
